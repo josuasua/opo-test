@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Opos Test</title>
+
+  <!-- Evita que el navegador pida /favicon.ico -->
+  <link rel="icon" href="data:,">
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1>Opos Test</h1>
+      <p class="muted">Preguntas aleatorias + modo examen + penalización configurable</p>
+    </header>
+
+    <section class="card">
+      <h2>Configuración</h2>
+
+      <div class="grid">
+        <label>
+          Número de preguntas
+          <input id="numQuestions" type="number" min="1" value="20" />
+        </label>
+
+        <label>
+          Penalización por fallo (p.ej. 0.333)
+          <input id="penalty" type="number" min="0" step="0.001" value="0.333" />
+        </label>
+
+        <label class="checkbox">
+          <input id="shuffleOptions" type="checkbox" checked />
+          Barajar opciones (A/B/C/D)
+        </label>
+      </div>
+
+      <!-- Dropdown multi-selección: se rellena desde preguntas.json (por test numérico) -->
+      <div class="tema-box">
+        <div class="tema-title">Filtrar por test/tema (opcional)</div>
+
+        <div class="tema-dropdown">
+          <button id="temaDropdownBtn" type="button" class="secondary tema-dropdown-btn">
+            Temas (Todos)
+          </button>
+
+          <div id="temaDropdownPanel" class="tema-dropdown-panel hidden">
+            <input id="temaSearch" class="tema-search" type="text" placeholder="Buscar..." />
+
+            <div class="tema-actions">
+              <button id="temaAllBtn" type="button" class="secondary">Todos</button>
+              <button id="temaNoneBtn" type="button" class="secondary">Ninguno</button>
+            </div>
+
+            <div id="temaList" class="tema-list"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="startBtn">Empezar examen</button>
+        <button id="resetStatsBtn" class="secondary">Reset estadísticas</button>
+      </div>
+
+      <div class="stats">
+        <div><strong>Histórico:</strong> <span id="histAttempts">0</span> exámenes</div>
+        <div><strong>Media:</strong> <span id="histAvg">—</span></div>
+        <div><strong>Última nota:</strong> <span id="histLast">—</span></div>
+      </div>
+    </section>
+
+    <section id="quiz" class="card hidden">
+      <div class="quiz-top">
+        <h2>Examen</h2>
+        <div class="muted">
+          <span id="progress">0/0</span> · <span id="temaTag">—</span>
+        </div>
+      </div>
+
+      <div id="questionBox" class="question-box"></div>
+
+      <div class="actions">
+        <button id="prevBtn" class="secondary">Anterior</button>
+        <button id="nextBtn">Siguiente</button>
+        <button id="finishBtn" class="danger">Finalizar</button>
+      </div>
+    </section>
+
+    <section id="results" class="card hidden">
+      <h2>Resultados</h2>
+      <div id="summary" class="summary"></div>
+      <div class="actions">
+        <button id="reviewWrongBtn" class="secondary">Revisar falladas</button>
+        <button id="backBtn">Volver</button>
+      </div>
+      <div id="wrongList" class="wrong-list"></div>
+    </section>
+
+    <footer class="footer muted">
+      <small>Aplicación local de preguntas.</small>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,3975 @@
+window.PREGUNTAS = [
+  {
+    "id": "T01-Q001",
+    "test": 1,
+    "n": 1,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿En qué se fundamenta la Constitución Española?",
+    "opciones": {
+      "A": "En un Estado social y democrático de Derecho.",
+      "B": "En la indisoluble unidad de la Nación española.",
+      "C": "En la independencia de los poderes del Estado.",
+      "D": "En la organización territorial del Estado."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) En la indisoluble unidad de la Nación española.",
+    "flags": [
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q002",
+    "test": 1,
+    "n": 2,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Según el artículo 3 de la CE, el castellano es la lengua oficial del Estado y todos los españoles:",
+    "opciones": {
+      "A": "Tienen el deber de usar y el derecho de usar el castellano.",
+      "B": "Tienen el derecho y el deber de conocer el castellano.",
+      "C": "Tienen el deber de conocer y el derecho de usar el castellano.",
+      "D": "Tienen el derecho de conocer y usar el castellano."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Tienen el deber de conocer y el derecho de usar el castellano.",
+    "flags": [
+      "opcion_vacia:C",
+      "respuesta_apunta_opcion_vacia"
+    ]
+  },
+  {
+    "id": "T01-Q003",
+    "test": 1,
+    "n": 3,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La Constitución Española reconoce y garantiza el derecho a la autonomía: De las nacionalidades que la integran. De las regiones que la integran. De las Comunidades Autónomas que la integran.",
+    "opciones": {
+      "A": "De las nacionalidades que la integran.",
+      "B": "De las regiones que la integran.",
+      "C": "De las Comunidades Autónomas que la integran.",
+      "D": "De las nacionalidades y regiones que la integran."
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) De las nacionalidades y regiones que la integran.",
+    "flags": [
+      "opcion_vacia:A",
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q004",
+    "test": 1,
+    "n": 4,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El Preámbulo de la Constitución:",
+    "opciones": {
+      "A": "Tiene en sí carácter de norma jurídica.",
+      "B": "Es una declaración de intenciones, destinada a interpretar lo que se quiere alcanzar con el contenido normativo de la Constitución.",
+      "C": "Se trata de un texto sin fuerza jurídica de obligar.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) Las respuestas b) y c) son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q005",
+    "test": 1,
+    "n": 5,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Señala la respuesta correcta, respecto de la aprobación, ratificación y publicación de la Constitución Española:",
+    "opciones": {
+      "A": "Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en referéndum el 6 de diciembre de 1978 y publicada el 29 de diciembre de 1978.",
+      "B": "Aprobada por las Cortes el 30 de octubre de 1978, ratificada por el pueblo en referéndum el 16 de diciembre de 1978 y publicada el 27 de diciembre de 1978.",
+      "C": "Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en referéndum el 16 de diciembre de 1978 y publicada el 29 de diciembre de 1978.",
+      "D": "Aprobada por las Cortes el 10 de octubre de 1978, ratificada por el pueblo en referéndum el 26 de diciembre de 1978 y publicada el 30 de diciembre de 1978."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Aprobada por las Cortes el 31 de octubre de 1978, ratificada por el pueblo en referéndum el 6 de diciembre de 1978 y publicada el 29 de diciembre de 1978.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q006",
+    "test": 1,
+    "n": 6,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿En qué parte de la Carta Magna se establece la exposición de motivos que impulsan la norma constitucional y los objetivos que con ella se pretenden alcanzar?",
+    "opciones": {
+      "A": "En el Título Preliminar.",
+      "B": "En el Preámbulo.",
+      "C": "En el Título I.",
+      "D": "En el Título II."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) En el Preámbulo.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q007",
+    "test": 1,
+    "n": 7,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La Constitución Española fue sancionada por:",
+    "opciones": {
+      "A": "El Rey.",
+      "B": "El Presidente del Congreso.",
+      "C": "Las Cortes Generales.",
+      "D": "El Presidente del Gobierno."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) El Rey.",
+    "flags": [
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q008",
+    "test": 1,
+    "n": 8,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Cuáles de los siguientes españoles de origen pueden ser privados de su nacionalidad?",
+    "opciones": {
+      "A": "Exclusivamente los miembros de grupos terroristas,",
+      "B": "Los miembros de grupos terroristas y los que atenten contra el Rey u otro miembro de la Casa Real.",
+      "C": "Los que atenten contra un miembro de la Familia Real o del Gobierno de la Nación,",
+      "D": "Ningún español de origen podrá ser privado de su nacionalidad,"
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) Ningún español de origen podrá ser privado de su nacionalidad,",
+    "flags": []
+  },
+  {
+    "id": "T01-Q009",
+    "test": 1,
+    "n": 9,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Según la CE son fundamentos del orden político y la paz social:",
+    "opciones": {
+      "A": "La dignidad de la persona, los derechos inviolables que le son inherentes y el respeto a la ley.",
+      "B": "La dignidad de la persona, el desarrollo limitado de la personalidad y el respeto de la ley.",
+      "C": "El respeto a la ley, a los reglamentos administrativos y demás disposiciones legales.",
+      "D": "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de su personalidad, el respeto a la ley y a los derechos de los demás."
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de su personalidad, el respeto a la ley y a los derechos de los demás.",
+    "flags": [
+      "opcion_vacia:A",
+      "opcion_vacia:B"
+    ]
+  },
+  {
+    "id": "T01-Q010",
+    "test": 1,
+    "n": 10,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Cuál de los siguientes es considerado por la CE como uno de los valores superiores del ordenamiento jurídico?",
+    "opciones": {
+      "A": "La jerarquía normativa.",
+      "B": "El pluralismo político.",
+      "C": "La publicidad normativa.",
+      "D": "La equidad."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) El pluralismo político.",
+    "flags": [
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q011",
+    "test": 1,
+    "n": 11,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La forma política del Estado español es:",
+    "opciones": {
+      "A": "Democracia parlamentaria.",
+      "B": "Gobierno parlamentario.",
+      "C": "Monarquía parlamentaria.",
+      "D": "República democrática."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Monarquía parlamentaria.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q012",
+    "test": 1,
+    "n": 12,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La parte de la CE que regula la estructura de los principales órganos del Estado recibe el nombre de:",
+    "opciones": {
+      "A": "Parte dogmática.",
+      "B": "Parte orgánica.",
+      "C": "Parte estatal.",
+      "D": "Parte estructural."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Parte orgánica.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q013",
+    "test": 1,
+    "n": 13,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Según la CE, la soberanía nacional:",
+    "opciones": {
+      "A": "Corresponde a las Cortes Generales, al estar compuestas por los representantes del pueblo.",
+      "B": "Corresponde al Rey.",
+      "C": "Reside en el pueblo español.",
+      "D": "Corresponde al Gobierno de la Nación elegido directamente por el pueblo."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Reside en el pueblo español.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q014",
+    "test": 1,
+    "n": 14,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿En qué parte de la Carta Magna se señalan los valores superiores del ordenamiento jurídico?",
+    "opciones": {
+      "A": "En el Preámbulo.",
+      "B": "En el Título Preliminar.",
+      "C": "En el Título I.",
+      "D": "Ninguna respuesta es correcta."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) En el Título Preliminar.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q015",
+    "test": 1,
+    "n": 15,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Cuál de las siguientes es una de las características de nuestra Constitución de 1978?",
+    "opciones": {
+      "A": "Consensuada.",
+      "B": "Corta.",
+      "C": "Conservadora.",
+      "D": "Originalidad."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Consensuada.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q016",
+    "test": 1,
+    "n": 16,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Son el fundamento del orden político y de la paz social:",
+    "opciones": {
+      "A": "El libre desarrollo de la personalidad.",
+      "B": "Los derechos inviolables que les son inherentes.",
+      "C": "El respeto a la ley y a los derechos de los demás.",
+      "D": "Todas las respuestas son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) Todas las respuestas son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q017",
+    "test": 1,
+    "n": 17,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Qué quedará excluido de extradición?",
+    "opciones": {
+      "A": "Los delitos criminales.",
+      "B": "Los delitos políticos.",
+      "C": "Los actos de terrorismo.",
+      "D": "Ninguno."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Los delitos políticos.",
+    "flags": [
+      "opcion_vacia:C",
+      "opcion_vacia:D"
+    ]
+  },
+  {
+    "id": "T01-Q018",
+    "test": 1,
+    "n": 18,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Qué debe ser democrático, a tenor de lo dispuesto en la Constitución Española, en los sindicatos de trabajadores y las asociaciones empresariales?",
+    "opciones": {
+      "A": "Su funcionamiento.",
+      "B": "Su estructura interna.",
+      "C": "Su funcionamiento y estructura interna.",
+      "D": "Sus órganos asamblearios."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Su funcionamiento y estructura interna.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q019",
+    "test": 1,
+    "n": 19,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿De cuántos Capítulos consta el Título ide la CE de 1978?",
+    "opciones": {
+      "A": "De tres.",
+      "B": "De cinco.",
+      "C": "De dos.",
+      "D": "De cuatro."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) De cinco.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q020",
+    "test": 1,
+    "n": 20,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Señala la respuesta incorrecta respecto al Tribunal Constitucional:",
+    "opciones": {
+      "A": "Se organiza a través de las figuras del Presidente, el Pleno, las Salas y las Secciones.",
+      "B": "El Presidente, será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en Pleno y por un período de tres años.",
+      "C": "El Pleno lo preside el Presidente del Tribunal y, en su defecto, el Vicepresidente y, a falta de ambos, el Magistrado de mayor edad,",
+      "D": "La distribución de asuntos entre las Salas del Tribunal se efectuará según un turno establec do por el Pleno a propuesta de su Presidente."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) El Pleno lo preside el Presidente del Tribunal y, en su defecto, el Vicepresidente y, a falta de ambos, el Magistrado de mayor edad,",
+    "flags": []
+  },
+  {
+    "id": "T01-Q021",
+    "test": 1,
+    "n": 21,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Para la adopción de los acuerdos de las Secciones del Tribunal Constitucional, se requerir",
+    "opciones": {
+      "A": "La presencia siempre de sus tres miembros.",
+      "B": "La presencia de dos miembros, salvo que haya discrepancia, requiriéndose entonces la de sus tres miembros.",
+      "C": "La presencia de tres miembros, salvo que haya discrepancia, requiriéndose entonces la d sus cinco miembros.",
+      "D": "La presencia siempre de sus cinco miembros."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) La presencia de dos miembros, salvo que haya discrepancia, requiriéndose entonces la de sus tres miembros.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q022",
+    "test": 1,
+    "n": 22,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Señala la respuesta incorrecta respecto a las sentencias del Tribunal Constitucional:",
+    "opciones": {
+      "A": "Las sentencias y resoluciones del Tribunal Constitucional tendrán la consideración de título declarativos.",
+      "B": "Todos los poderes públicos están obligados al cumplimiento de lo que el Tribunal Constitu cional resuelva.",
+      "C": "Las sentencias del Tribunal Constitucional se publicarán en el Boletín Oficial del Estado: co los votos particulares, si los hubiere.",
+      "D": "Salvo que en el fallo se disponga otra cosa, subsistirá la vigencia de la ley en la parte no afec tada por la inconstitucionalidad."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Las sentencias y resoluciones del Tribunal Constitucional tendrán la consideración de título declarativos.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q023",
+    "test": 1,
+    "n": 23,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Quién nombra a los miembros del Tribunal Constitucional?",
+    "opciones": {
+      "A": "El Rey.",
+      "B": "El Presidente del Gobierno.",
+      "C": "Las Cortes Generales.",
+      "D": "El Presidente del Tribunal Constitucional."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) El Rey.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q024",
+    "test": 1,
+    "n": 24,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Cuántos de los miembros del Tribunal Constitucional son propuestos por el Consejo | General del Poder Judicial?",
+    "opciones": {
+      "A": "Cuatro.",
+      "B": "Tres.",
+      "C": "Dos.",
+      "D": "Ninguno."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Dos.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q025",
+    "test": 1,
+    "n": 25,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, Funcionarios Públicos y Abogados, todos ellos Juristas de reconocida competencia:",
+    "opciones": {
+      "A": "Con más de veinte años de ejercicio profesional.",
+      "B": "Con más de quince años de ejercicio profesional.",
+      "C": "Con más de doce años de ejercicio profesional.",
+      "D": "Con más de diez años de ejercicio profesional."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Con más de quince años de ejercicio profesional.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q026",
+    "test": 1,
+    "n": 26,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Las primeras elecciones democráticas celebradas en España tras la muerte de Franco tuvieron lugar en:",
+    "opciones": {
+      "A": "1975.",
+      "B": "1976.",
+      "C": "1977.",
+      "D": "1978."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) 1977.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q027",
+    "test": 1,
+    "n": 27,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El referéndum en el que se aprobó popularmente la Constitución se llevó a efecto el:",
+    "opciones": {
+      "A": "27 de diciembre de 1978,",
+      "B": "6 de diciembre de 1978.",
+      "C": "31 de octubre de 1978.",
+      "D": "29 de diciembre de 1979,"
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) 6 de diciembre de 1978.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q028",
+    "test": 1,
+    "n": 28,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La ponencia encargada de redactar el borrador de la Constitución se constituyó en el:",
+    "opciones": {
+      "A": "Senado.",
+      "B": "Senado y Congreso de los Diputados.",
+      "C": "Congreso de los Diputados.",
+      "D": "Gobierno de la Nación."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Congreso de los Diputados.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q029",
+    "test": 1,
+    "n": 29,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Si un poder público, en su actuación, infringe lo dispuesto en el Preámbulo de la Cons- titución:",
+    "opciones": {
+      "A": "Incurre en nulidad.",
+      "B": "Incurre en inconstitucionalidad.",
+      "C": "No pasa nada salvo que, como consecuencia de esa actuación, se infrinja un artículo de la propia Constitución.",
+      "D": "Nada de lo anterior es cierto. MAI"
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) No pasa nada salvo que, como consecuencia de esa actuación, se infrinja un artículo de la propia Constitución.",
+    "flags": [
+      "opcion_vacia:C",
+      "respuesta_apunta_opcion_vacia"
+    ]
+  },
+  {
+    "id": "T01-Q030",
+    "test": 1,
+    "n": 30,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El principio en virtud del cual el ciudadano está amparado por una legislación no su- jeta a continuos vaivenes es el de:",
+    "opciones": {
+      "A": "Legalidad.",
+      "B": "Publicidad normativa.",
+      "C": "Seguridad jurídica.",
+      "D": "Jerarquía normativa."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Seguridad jurídica.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q031",
+    "test": 1,
+    "n": 31,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El principio en virtud del cual un Reglamento no puede contradecir una ley es el de:",
+    "opciones": {
+      "A": "Legalidad.",
+      "B": "Jerarquía normativa.",
+      "C": "Las respuestas a) y b) son correctas.",
+      "D": "Seguridad jurídica."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Las respuestas a) y b) son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q032",
+    "test": 1,
+    "n": 32,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Según la Constitución, una norma que imponga una nueva pena más leve para un delito:",
+    "opciones": {
+      "A": "No se aplica retroactivamente.",
+      "B": "Puede aplicarse retroactivamente,",
+      "C": "Ha de ser reglamentaria.",
+      "D": "Atenta contra el principio de legalidad penal si se aplica retroactivamente."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Puede aplicarse retroactivamente,",
+    "flags": []
+  },
+  {
+    "id": "T01-Q033",
+    "test": 1,
+    "n": 33,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Todos los españoles, respecto al castellano, tienen el:",
+    "opciones": {
+      "A": "Derecho-deber de conocerlo.",
+      "B": "Derecho de usar y deber de conocerlo.",
+      "C": "Derecho-deber de usarlo.",
+      "D": "Nada de lo anterior."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Derecho de usar y deber de conocerlo.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q034",
+    "test": 1,
+    "n": 34,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La capital del Estado en España es:",
+    "opciones": {
+      "A": "La propia de cada Comunidad Autónoma.",
+      "B": "La villa de Madrid.",
+      "C": "Aquella donde se establezca en cada momento el Gobierno de la Nación.",
+      "D": "Aquella en la que resida generalmente el Rey."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) La villa de Madrid.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q035",
+    "test": 1,
+    "n": 35,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El Título de la Constitución que trata de la reforma constitucional es el:",
+    "opciones": {
+      "A": "Primero.",
+      "B": "Décimo.",
+      "C": "Noveno.",
+      "D": "Undécimo."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Décimo.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q036",
+    "test": 1,
+    "n": 36,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El Defensor del Pueblo se regula en el siguiente Título y Capítulo de la Constitución, respectivamente:",
+    "opciones": {
+      "A": "Preliminar y 1º",
+      "B": "Segundo y 4º",
+      "C": "Segundo y 3º",
+      "D": "Primero y 4º"
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) Primero y 4º",
+    "flags": []
+  },
+  {
+    "id": "T01-Q037",
+    "test": 1,
+    "n": 37,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El Título de la misma que trata del Gobierno y la Administración es el:",
+    "opciones": {
+      "A": "Tercero",
+      "B": "Cuarto",
+      "C": "Quinto",
+      "D": "Sexto"
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Cuarto",
+    "flags": []
+  },
+  {
+    "id": "T01-Q038",
+    "test": 1,
+    "n": 38,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Los principios rectores de la política social y económica se regulan en el siguiente Capítulo y Título de la Constitución:",
+    "opciones": {
+      "A": "Segundo del Primero.",
+      "B": "Tercero del Primero.",
+      "C": "Tercero del Preliminar.",
+      "D": "Primero del Séptimo"
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Tercero del Primero.",
+    "flags": [
+      "opcion_vacia:C",
+      "opcion_vacia:D"
+    ]
+  },
+  {
+    "id": "T01-Q039",
+    "test": 1,
+    "n": 39,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La derogación de una norma posconstitucional que vaya en contra de la Constitución se efectúa por el/la/las:",
+    "opciones": {
+      "A": "Propia Constitución.",
+      "B": "Tribunal Constitucional.",
+      "C": "Cortes Generales.",
+      "D": "Gobierno de la Nación."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Propia Constitución.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q040",
+    "test": 1,
+    "n": 40,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El pluralismo político, para nuestra Constitución, es un/una:",
+    "opciones": {
+      "A": "Principio General del ordenamiento político.",
+      "B": "Valor superior del ordenamiento jurídico.",
+      "C": "Principio rector de la política social y económica.",
+      "D": "Derecho fundamental."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Valor superior del ordenamiento jurídico.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q041",
+    "test": 1,
+    "n": 41,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La forma política del Estado español es:",
+    "opciones": {
+      "A": "Unitaria y regionalizada.",
+      "B": "Federal.",
+      "C": "La Monarquía Parlamentaria.",
+      "D": "La propia de un Estado Social y Democrático."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) La Monarquía Parlamentaria.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q042",
+    "test": 1,
+    "n": 42,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La justicia, según nuestra Constitución, es un/una:",
+    "opciones": {
+      "A": "Principio de nuestro ordenamiento jurídico,",
+      "B": "Valor superior del anterior.",
+      "C": "Manifestación del Estado democrático.",
+      "D": "Todo lo anterior."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Valor superior del anterior.",
+    "flags": [
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q043",
+    "test": 1,
+    "n": 43,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Un español de origen puede perder esta nacionalidad:",
+    "opciones": {
+      "A": "Por sanción administrativa.",
+      "B": "Cuando libremente renuncie a la misma.",
+      "C": "Por condena penal.",
+      "D": "En ningún caso."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Cuando libremente renuncie a la misma.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q044",
+    "test": 1,
+    "n": 44,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Constituye el fundamento del orden público y de la paz social, según la Constitución, el/la/los:",
+    "opciones": {
+      "A": "Derechos inviolables inherentes a la persona.",
+      "B": "Estado social y democrático de Derecho.",
+      "C": "Seguridad jurídica.",
+      "D": "Justicia."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Derechos inviolables inherentes a la persona.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q045",
+    "test": 1,
+    "n": 45,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Las Comunidades Autónomas deben usar o instalar la bandera española:",
+    "opciones": {
+      "A": "En sus edificios.",
+      "B": "En los actos oficiales.",
+      "C": "Cuando lo solicite el Delegado del Gobierno de la Nación en las mismas.",
+      "D": "Cuando lo estimen oportuno."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) En los actos oficiales.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q046",
+    "test": 1,
+    "n": 46,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Deben tener una estructura interna y un funcionamiento democrático los/las:",
+    "opciones": {
+      "A": "Partidos Políticos.",
+      "B": "Colegios Profesionales.",
+      "C": "Organizaciones Profesionales.",
+      "D": "Todos ellos."
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) Todos ellos.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q047",
+    "test": 1,
+    "n": 47,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La defensa de la integridad territorial de España se atribuye por la Constitución a/al/a las;",
+    "opciones": {
+      "A": "Fuerzas y Cuerpos de Seguridad.",
+      "B": "Fuerzas Armadas.",
+      "C": "Gobierno de la Nación.",
+      "D": "Todas las anteriores."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Fuerzas Armadas.",
+    "flags": [
+      "respuesta_mapeada_por_texto"
+    ]
+  },
+  {
+    "id": "T01-Q048",
+    "test": 1,
+    "n": 48,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El Título de la Constitución que trata de las relaciones entre el Gobierno y las Cortes Generales es el:",
+    "opciones": {
+      "A": "Cuarto.",
+      "B": "Quinto.",
+      "C": "Sexto.",
+      "D": "Tercero."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Quinto.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q049",
+    "test": 1,
+    "n": 49,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La Constitución entró en vigor:",
+    "opciones": {
+      "A": "Al día siguiente de su publicación en el Boletín Oficial del Estado.",
+      "B": "El 27 de diciembre de 1978.",
+      "C": "El 29 de diciembre de 1978.",
+      "D": "Al ser aprobada en la sesión conjunta por el Congreso de los Diputados y el Senado."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) El 29 de diciembre de 1978.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q050",
+    "test": 1,
+    "n": 50,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Los medios de producción, según nuestra Constitución, serán:",
+    "opciones": {
+      "A": "Públicos.",
+      "B": "Privados.",
+      "C": "Intervenidos.",
+      "D": "De propiedad sindical."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Privados.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q051",
+    "test": 1,
+    "n": 51,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Toda la riqueza del país, en sus distintas formas, respecto del interés general:",
+    "opciones": {
+      "A": "Le está subordinada.",
+      "B": "Tiene primacía sobre el mismo.",
+      "C": "Posibilita a los poderes públicos para ostentar su titularidad por cualquier medio.",
+      "D": "Nada de lo anterior es cierto."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Le está subordinada.",
+    "flags": [
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q052",
+    "test": 1,
+    "n": 52,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Respecto a las sociedades cooperativas, según la Constitución, los poderes públicos deben:",
+    "opciones": {
+      "A": "Crearlas.",
+      "B": "Suprimirlas.",
+      "C": "Fomentarlas.",
+      "D": "Tomar parte en ellas."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Fomentarlas.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q053",
+    "test": 1,
+    "n": 53,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La iniciativa económica pública en España:",
+    "opciones": {
+      "A": "Debe ser subsidiaria de la privada.",
+      "B": "Se prohíbe al consagrarse la libertad de empresa en el marco de la economía de mercado.",
+      "C": "Está reconocida por la Constitución.",
+      "D": "Se ejercerá solo cuando la planificación la imponga."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Está reconocida por la Constitución.",
+    "flags": [
+      "opcion_vacia:C",
+      "respuesta_apunta_opcion_vacia"
+    ]
+  },
+  {
+    "id": "T01-Q054",
+    "test": 1,
+    "n": 54,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La planificación de la actividad económica se hará a través de:",
+    "opciones": {
+      "A": "Consenso con las fuerzas sociales.",
+      "B": "Ley.",
+      "C": "Decreto del Consejo de Ministros.",
+      "D": "Todo lo anterior."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Ley.",
+    "flags": [
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q055",
+    "test": 1,
+    "n": 55,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La creación de un tributo por una Corporación Local;",
+    "opciones": {
+      "A": "Se permite solo para su ámbito de actuación.",
+      "B": "Está permitida, sin limitación alguna.",
+      "C": "No se admite en nuestro ordenamiento jurídico.",
+      "D": "Nada de lo expuesto es correcto."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) No se admite en nuestro ordenamiento jurídico.",
+    "flags": [
+      "opcion_vacia:C",
+      "respuesta_apunta_opcion_vacia"
+    ]
+  },
+  {
+    "id": "T01-Q056",
+    "test": 1,
+    "n": 56,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Además de en la vida económica y política, los poderes públicos deben fomentar la participación de los ciudadanos en la vida:",
+    "opciones": {
+      "A": "Cultural.",
+      "B": "Social.",
+      "C": "Corporativa.",
+      "D": "Las respuestas a) y b) son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) Las respuestas a) y b) son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q057",
+    "test": 1,
+    "n": 57,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El proyecto de Ley de Presupuestos Generales del Estado se aprueba por el/las:",
+    "opciones": {
+      "A": "Gobierno de la Nación.",
+      "B": "Cortes Generales.",
+      "C": "Ministerio de Hacienda y Función Pública.",
+      "D": "Presidente del Gobierno de la Nación."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Gobierno de la Nación.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q058",
+    "test": 1,
+    "n": 58,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Puede instar la reforma de la Constitución el/los/las:",
+    "opciones": {
+      "A": "Asambleas Legislativas de las Comunidades Autónomas.",
+      "B": "Presidente del Gobierno de la Nación.",
+      "C": "Consejos de Gobierno de las Comunidades Autónomas.",
+      "D": "Ninguno de los anteriores."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Asambleas Legislativas de las Comunidades Autónomas.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q059",
+    "test": 1,
+    "n": 59,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "No puede instar la reforma de la Constitución el/los:",
+    "opciones": {
+      "A": "Presidente del Gobierno de la Nación.",
+      "B": "Gobierno de la Nación.",
+      "C": "Congreso de los Diputados.",
+      "D": "Parlamentos autonómicos."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Presidente del Gobierno de la Nación.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q060",
+    "test": 1,
+    "n": 60,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "En el procedimiento ordinario de reforma constitucional, el referéndum es:",
+    "opciones": {
+      "A": "Obligatorio en todo caso.",
+      "B": "Preceptivo cuando se solicite por una décima parte de los Diputados o Senadores, dentro de quince días siguientes a la aprobación de la reforma.",
+      "C": "Voluntario en cualquier caso.",
+      "D": "Improcedente."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Preceptivo cuando se solicite por una décima parte de los Diputados o Senadores, dentro de quince días siguientes a la aprobación de la reforma.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q061",
+    "test": 1,
+    "n": 61,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "La disolución de las Cortes Generales, cuando se va a proceder a la reforma de la Cons- titución, se produce en caso de:",
+    "opciones": {
+      "A": "Reforma por el procedimiento excepcional.",
+      "B": "Reforma por el procedimiento ordinario.",
+      "C": "Cualquier tipo de reforma.",
+      "D": "Que así lo estime oportuno el Rey."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Reforma por el procedimiento excepcional.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q062",
+    "test": 1,
+    "n": 62,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "No puede iniciarse la reforma constitucional en:",
+    "opciones": {
+      "A": "Tiempo de guerra.",
+      "B": "El supuesto de que el Rey no lo estime oportuno.",
+      "C": "Un período extraordinario de sesiones de las Cámaras.",
+      "D": "Se puede efectuar en los tres supuestos anteriores."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Tiempo de guerra.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q063",
+    "test": 1,
+    "n": 63,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "En el procedimiento general de reforma constitucional, en principio, el proyecto de reforma debe ser aprobado por:",
+    "opciones": {
+      "A": "El Congreso de los Diputados por mayoría de dos tercios.",
+      "B": "El Congreso de los Diputados y el Senado por mayoría de tres quintos.",
+      "C": "Ambas Cámaras, por mayoría absoluta.",
+      "D": "Una Comisión Paritaria."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) El Congreso de los Diputados y el Senado por mayoría de tres quintos.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q064",
+    "test": 1,
+    "n": 64,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "El procedimiento excepcional de reforma está previsto en caso de intentarse esta res- pecto del siguiente Título de la Constitución:",
+    "opciones": {
+      "A": "Cualquiera.",
+      "B": "Segundo.",
+      "C": "Tercero.",
+      "D": "Ninguno de los anteriores."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Segundo.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q065",
+    "test": 1,
+    "n": 65,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Qué artículos de nuestra Constitución Española se dedican a la reforma constitucional?",
+    "opciones": {
+      "A": "Los artículos 166 a 169",
+      "B": "Los artículos 160 a 166.",
+      "C": "Los artículos 58 a 107.",
+      "D": "Los artículos 13 a 21."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Los artículos 166 a 169",
+    "flags": [
+      "opcion_vacia:B",
+      "opcion_vacia:C",
+      "opcion_vacia:D"
+    ]
+  },
+  {
+    "id": "T01-Q066",
+    "test": 1,
+    "n": 66,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Cuántas salas tiene el Tribunal Constitucional y de cuántos Magistrados se compo- nen cada una de ellas?",
+    "opciones": {
+      "A": "Las Salas son tres, compuestas cada una por cuatro Magistrados.",
+      "B": "Las Salas son dos, compuestas cada una por seis Magistrados.",
+      "C": "Las Salas son tres, compuestas cada una por seis Magistrados.",
+      "D": "Las Salas son dos, compuestas cada una por cuatro Magistrados."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Las Salas son dos, compuestas cada una por seis Magistrados.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q067",
+    "test": 1,
+    "n": 67,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Pueden crear tributos: Las Cortes Generales. Las Corporaciones Locales, Los Parlamentos Autonómicos. Todos ellos.",
+    "opciones": {
+      "A": "Las Cortes Generales.",
+      "B": "Las Corporaciones Locales,",
+      "C": "Los Parlamentos Autonómicos.",
+      "D": "Todos ellos."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Las Cortes Generales.",
+    "flags": [
+      "opcion_vacia:A",
+      "opcion_vacia:B",
+      "opcion_vacia:C",
+      "opcion_vacia:D",
+      "respuesta_apunta_opcion_vacia"
+    ]
+  },
+  {
+    "id": "T01-Q068",
+    "test": 1,
+    "n": 68,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Las sentencias del Tribunal Constitucional han de publicarse en el:",
+    "opciones": {
+      "A": "Diario Oficial de las Cortes Generales.",
+      "B": "Boletín Oficial del Estado.",
+      "C": "Periódico de mayor circulación de la capital de España.",
+      "D": "Tablón de Anuncios del propio Tribunal."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) Boletín Oficial del Estado.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q069",
+    "test": 1,
+    "n": 69,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Puede plantear un conflicto negativo de competencias entre el Estado y las Comuni- dades Autónomas, ante el Tribunal Constitucional:",
+    "opciones": {
+      "A": "Un particular afectado por el mismo.",
+      "B": "Las Cortes Generales y los Parlamentos Autonómicos.",
+      "C": "Solo el Gobierno de la Nación y los Consejos de Gobierno de dichas Comunidades Autónomas.",
+      "D": "El Defensor del Pueblo."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Un particular afectado por el mismo.",
+    "flags": [
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q070",
+    "test": 1,
+    "n": 70,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Los Reglamentos sobre funcionamiento y organización, y régimen de su personal y servicios del Tribunal Constitucional se aprueban por el/las:",
+    "opciones": {
+      "A": "Cortes Generales.",
+      "B": "Salas del mismo.",
+      "C": "Pleno del propio Tribunal.",
+      "D": "Presidente del Tribunal."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) Pleno del propio Tribunal.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q071",
+    "test": 1,
+    "n": 71,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿En qué fecha aprobaron las Cortes Generales la Constitución Española?",
+    "opciones": {
+      "A": "El 31 de octubre de 1978.",
+      "B": "El 6 de diciembre de 1978.",
+      "C": "El 27 de diciembre de 1978",
+      "D": "El 29 de diciembre de 1978."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) El 31 de octubre de 1978.",
+    "flags": [
+      "opcion_vacia:D"
+    ]
+  },
+  {
+    "id": "T01-Q072",
+    "test": 1,
+    "n": 72,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Cuál de las siguientes no es una característica de la Carta Magna?",
+    "opciones": {
+      "A": "Su rigidez.",
+      "B": "El establecimiento, como forma política del Estado, de la monarquía hereditaria.",
+      "C": "Su codificación en un solo texto.",
+      "D": "Su extensión."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) El establecimiento, como forma política del Estado, de la monarquía hereditaria.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q073",
+    "test": 1,
+    "n": 73,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿De cuántos artículos consta la Constitución Española de 1978?",
+    "opciones": {
+      "A": "De 154.",
+      "B": "De 163.",
+      "C": "De 169.",
+      "D": "De 171."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) De 169.",
+    "flags": [
+      "opcion_vacia:B",
+      "opcion_vacia:C",
+      "opcion_vacia:D",
+      "respuesta_apunta_opcion_vacia"
+    ]
+  },
+  {
+    "id": "T01-Q074",
+    "test": 1,
+    "n": 74,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Cuál de los siguientes no es uno de los valores superiores de nuestro ordenamiento jurídico?",
+    "opciones": {
+      "A": "El pluralismo político.",
+      "B": "La solidaridad.",
+      "C": "La libertad.",
+      "D": "La igualdad."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) La solidaridad.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q075",
+    "test": 1,
+    "n": 75,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Atenor del artículo 11 de la Constitución, los españoles de origen podrán ser privados de su nacionalidad:",
+    "opciones": {
+      "A": "Cuando así lo determinen las leyes.",
+      "B": "Cuando entren al servicio de las armas de un país extranjero.",
+      "C": "Cuando así lo apruebe el Consejo de Ministros.",
+      "D": "En ningún caso un español de origen podrá ser privado de su nacionalidad."
+    },
+    "correcta": "D",
+    "explicacion": "Respuesta correcta: D) En ningún caso un español de origen podrá ser privado de su nacionalidad.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q076",
+    "test": 1,
+    "n": 76,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Las Cortes Generales, ¿en qué Título de nuestra Constitución se recogen?",
+    "opciones": {
+      "A": "En el Título II.",
+      "B": "En el Título III",
+      "C": "En el Título IV.",
+      "D": "En el Título VI."
+    },
+    "correcta": "B",
+    "explicacion": "Respuesta correcta: B) En el Título III",
+    "flags": [
+      "opcion_vacia:C"
+    ]
+  },
+  {
+    "id": "T01-Q077",
+    "test": 1,
+    "n": 77,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "Según la Disposición Final de nuestra Constitución, esta entrará en vigor:",
+    "opciones": {
+      "A": "Al día siguiente de su publicación en el Boletín Oficial del Estado,",
+      "B": "A los veinte días de la publicación de su texto oficial en el Boletín Oficial del Estado.",
+      "C": "El mismo día de la publicación de su texto oficial en el Boletín Oficial del Estado.",
+      "D": "Al año de la publicación de su texto oficial en el Boletín Oficial del Estado."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) El mismo día de la publicación de su texto oficial en el Boletín Oficial del Estado.",
+    "flags": []
+  },
+  {
+    "id": "T01-Q078",
+    "test": 1,
+    "n": 78,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Qué órgano es el intérprete supremo de la Constitución, es independiente de los demás órganos constitucionales y está sometido solo a la Constitución y a su Ley Orgánica?",
+    "opciones": {
+      "A": "El Tribunal Supremo.",
+      "B": "El Consejo de Estado.",
+      "C": "El Tribunal Constitucional.",
+      "D": "El Consejo General del Poder Judicial."
+    },
+    "correcta": "C",
+    "explicacion": "Respuesta correcta: C) El Tribunal Constitucional.",
+    "flags": [
+      "opcion_vacia:C",
+      "opcion_vacia:D",
+      "respuesta_apunta_opcion_vacia"
+    ]
+  },
+  {
+    "id": "T01-Q079",
+    "test": 1,
+    "n": 79,
+    "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
+    "pregunta": "¿Por cuántos años es nombrado el Presidente de Tribunal Constitucional?",
+    "opciones": {
+      "A": "Por tres.",
+      "B": "Por cuatro.",
+      "C": "Por cinco.",
+      "D": "Por seis."
+    },
+    "correcta": "A",
+    "explicacion": "Respuesta correcta: A) Por tres.",
+    "flags": [
+      "opcion_vacia:C",
+      "opcion_vacia:D",
+      "respuesta_apunta_opcion_vacia"
+    ]
+  },
+  {
+    "id": "T02-Q001",
+    "test": 2,
+    "n": 1,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "El derecho a la propiedad en nuestra Constitución es un Derecho:",
+    "opciones": {
+      "A": "Inherente a la condición humana.",
+      "B": "Absoluto.",
+      "C": "Que está limitado por la función social de la misma.",
+      "D": "Ninguna de las respuestas anteriores es correcta."
+    },
+    "correcta": "C",
+    "explicacion": "Que está limitado por la función social de la misma.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q002",
+    "test": 2,
+    "n": 2,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Dispone la Carta Magna que todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de:",
+    "opciones": {
+      "A": "Legalidad y equidad.",
+      "B": "Igualdad y progresividad.",
+      "C": "Publicidad y legalidad.",
+      "D": "Eficacia y sostenibilidad."
+    },
+    "correcta": "B",
+    "explicacion": "Igualdad y progresividad.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q003",
+    "test": 2,
+    "n": 3,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "En virtud del principio de progresividad tributaria:",
+    "opciones": {
+      "A": "Se implantarán paulatinamente cada vez mayores tributos.",
+      "B": "Los tipos impositivos serán regresivos.",
+      "C": "Prima el principio de igualdad en el pago de los tributos.",
+      "D": "Nada de lo expuesto es cierto."
+    },
+    "correcta": "D",
+    "explicacion": "Nada de lo expuesto es cierto.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q004",
+    "test": 2,
+    "n": 4,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Según la Constitución, el Estado es:",
+    "opciones": {
+      "A": "Apolítico.",
+      "B": "Aconfesional.",
+      "C": "De bienestar social.",
+      "D": "Federal."
+    },
+    "correcta": "B",
+    "explicacion": "Aconfesional.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q005",
+    "test": 2,
+    "n": 5,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "El derecho a la vida se consagra en el siguiente artículo de la Constitución:",
+    "opciones": {
+      "A": "10.",
+      "B": "16.",
+      "C": "15.",
+      "D": "24."
+    },
+    "correcta": "C",
+    "explicacion": "15.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q006",
+    "test": 2,
+    "n": 6,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "La pena de muerte en España:",
+    "opciones": {
+      "A": "Ha quedado abolida.",
+      "B": "Puede aplicarse en cualquier momento.",
+      "C": "Solo se aplicará, en tiempo de guerra, a los militares.",
+      "D": "Rige solo en el ámbito civil."
+    },
+    "correcta": "A",
+    "explicacion": "Ha quedado abolida.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q007",
+    "test": 2,
+    "n": 7,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "La inmediata puesta a disposición judicial de toda persona detenida ilegalmente se puede obtener mediante el procedimiento de:",
+    "opciones": {
+      "A": "Detención ilegal.",
+      "B": "Habeas Data.",
+      "C": "Habeas Corpus.",
+      "D": "Prisión provisional."
+    },
+    "correcta": "A",
+    "explicacion": "Detención ilegal.",
+    "flags": [
+      "revisar_consistencia_libro"
+    ]
+  },
+  {
+    "id": "T02-Q008",
+    "test": 2,
+    "n": 8,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "El plazo máximo de la detención preventiva ha de:",
+    "opciones": {
+      "A": "Ser de setenta y dos horas.",
+      "B": "No dilatarse.",
+      "C": "Ser de cuarenta y ocho horas.",
+      "D": "Nada de lo expuesto es cierto."
+    },
+    "correcta": "B",
+    "explicacion": "No dilatarse.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q009",
+    "test": 2,
+    "n": 9,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "La información al detenido de sus derechos y de las razones de su detención:",
+    "opciones": {
+      "A": "Puede demorarse si el Juez así lo estima.",
+      "B": "Se hará tras la primera declaración en presencia del Letrado.",
+      "C": "Puede efectuarse en todo momento.",
+      "D": "Ha de ser inmediata."
+    },
+    "correcta": "C",
+    "explicacion": "Puede efectuarse en todo momento.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q010",
+    "test": 2,
+    "n": 10,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "En un domicilio donde se sospeche que se está cometiendo un delito:",
+    "opciones": {
+      "A": "Podrá entrar la policía sin más.",
+      "B": "Se necesitará autorización judicial para entrar, si no da su consentimiento para ello.",
+      "C": "Solo se podrá entrar si se trata de un delito flagrante.",
+      "D": "Nada de lo anterior es cierto."
+    },
+    "correcta": "B",
+    "explicacion": "Se necesitará autorización judicial para entrar, si no da su consentimiento para ello.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q011",
+    "test": 2,
+    "n": 11,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Una norma que prohíba a los extranjeros el ejercicio del derecho de reunión:",
+    "opciones": {
+      "A": "Es admisible según nuestra Constitución.",
+      "B": "Se admite si no tienen su situación legalizada en España.",
+      "C": "Sería inconstitucional.",
+      "D": "Sería admisible siempre que no afectase a la seguridad ciudadana."
+    },
+    "correcta": "C",
+    "explicacion": "Sería inconstitucional.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q012",
+    "test": 2,
+    "n": 12,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "El sufragio en España es:",
+    "opciones": {
+      "A": "Obligatorio.",
+      "B": "Universal.",
+      "C": "Indirecto.",
+      "D": "Censitario."
+    },
+    "correcta": "B",
+    "explicacion": "Universal.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q013",
+    "test": 2,
+    "n": 13,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "La ley regulará, respecto de los profesionales de la información:",
+    "opciones": {
+      "A": "La cláusula de conciencia.",
+      "B": "El secreto profesional.",
+      "C": "Secreto profesional.",
+      "D": "Ambas son correctas."
+    },
+    "correcta": "C",
+    "explicacion": "Secreto profesional.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q014",
+    "test": 2,
+    "n": 14,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "El derecho de asociación no se aplica a los miembros de:",
+    "opciones": {
+      "A": "Las Fuerzas Armadas.",
+      "B": "Jueces y Magistrados en activo.",
+      "C": "Organizaciones Profesionales y la Administración Civil.",
+      "D": "Nada de lo anterior es cierto."
+    },
+    "correcta": "C",
+    "explicacion": "Organizaciones Profesionales y la Administración Civil.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q015",
+    "test": 2,
+    "n": 15,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "En un juicio, una persona tiene derecho a:",
+    "opciones": {
+      "A": "Confesar su culpabilidad.",
+      "B": "Declarar contra sí mismo.",
+      "C": "No declarar sobre hechos presuntamente delictivos.",
+      "D": "No declarar."
+    },
+    "correcta": "C",
+    "explicacion": "No declarar sobre hechos presuntamente delictivos.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q016",
+    "test": 2,
+    "n": 16,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "La creación de centros docentes:",
+    "opciones": {
+      "A": "Es libre.",
+      "B": "Está reservada al Estado.",
+      "C": "Solo se admite si son privados.",
+      "D": "Requiere autorización administrativa previa."
+    },
+    "correcta": "A",
+    "explicacion": "Es libre.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q017",
+    "test": 2,
+    "n": 17,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "La objeción de conciencia al servicio militar, según nuestra Constitución:",
+    "opciones": {
+      "A": "No se admite.",
+      "B": "Se admite en cualquier caso.",
+      "C": "Está prohibida.",
+      "D": "No se menciona."
+    },
+    "correcta": "A",
+    "explicacion": "No se admite.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q018",
+    "test": 2,
+    "n": 18,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "El sistema tributario español ha de ser:",
+    "opciones": {
+      "A": "Lineal.",
+      "B": "Progresivo y generalizado.",
+      "C": "Confiscatorio.",
+      "D": "Sustitutivo del derecho de propiedad."
+    },
+    "correcta": "B",
+    "explicacion": "Progresivo y generalizado.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q019",
+    "test": 2,
+    "n": 19,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Las fundaciones son:",
+    "opciones": {
+      "A": "Entidades constituidas para fines de interés general.",
+      "B": "Entidades con ánimo de lucro.",
+      "C": "Asociaciones de carácter secreto.",
+      "D": "Organizaciones paramilitares."
+    },
+    "correcta": "A",
+    "explicacion": "Entidades constituidas para fines de interés general.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q020",
+    "test": 2,
+    "n": 20,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "La educación de los hijos:",
+    "opciones": {
+      "A": "Es una facultad de los padres.",
+      "B": "Es un deber de los padres.",
+      "C": "Es obligatoria hasta los 18 años.",
+      "D": "Corresponde exclusivamente al Estado."
+    },
+    "correcta": "B",
+    "explicacion": "Es un deber de los padres.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q021",
+    "test": 2,
+    "n": 21,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "El despido de un trabajador por su pertenencia a un sindicato:",
+    "opciones": {
+      "A": "Debe evitarse.",
+      "B": "Es procedente.",
+      "C": "Es admisible si es por causas económicas.",
+      "D": "Nada de lo expuesto es cierto."
+    },
+    "correcta": "A",
+    "explicacion": "Debe evitarse.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q022",
+    "test": 2,
+    "n": 22,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Los poderes públicos deben fomentar la:",
+    "opciones": {
+      "A": "Iniciativa privada en todo caso.",
+      "B": "Investigación científica.",
+      "C": "Creación de asociaciones políticas.",
+      "D": "Lo están todos ellos."
+    },
+    "correcta": "B",
+    "explicacion": "Investigación científica.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q023",
+    "test": 2,
+    "n": 23,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "No es susceptible de recurso de amparo el derecho de:",
+    "opciones": {
+      "A": "Libertad de cátedra.",
+      "B": "Negociación colectiva.",
+      "C": "Manifestación.",
+      "D": "Huelga."
+    },
+    "correcta": "B",
+    "explicacion": "Negociación colectiva.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q024",
+    "test": 2,
+    "n": 24,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Es susceptible de recurso de amparo el derecho a la/de:",
+    "opciones": {
+      "A": "Libre sindicación.",
+      "B": "Petición.",
+      "C": "Cláusula de conciencia.",
+      "D": "Lo están todos ellos."
+    },
+    "correcta": "D",
+    "explicacion": "Lo están todos ellos.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q025",
+    "test": 2,
+    "n": 25,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Una vez declarado el estado de excepción no se puede suspender el derecho/libertad de:",
+    "opciones": {
+      "A": "Huelga.",
+      "B": "Enseñanza.",
+      "C": "Adopción de medidas de conflicto colectivo.",
+      "D": "Libertad de circulación."
+    },
+    "correcta": "B",
+    "explicacion": "Enseñanza.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q026",
+    "test": 2,
+    "n": 26,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Durante el estado de excepción, un detenido conserva el derecho de/a:",
+    "opciones": {
+      "A": "Setenta y dos horas para ser puesto a disposición judicial.",
+      "B": "Secreto de comunicaciones.",
+      "C": "Asistencia de Letrado.",
+      "D": "Ninguno de ellos."
+    },
+    "correcta": "C",
+    "explicacion": "Asistencia de Letrado.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q027",
+    "test": 2,
+    "n": 27,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Se puede suspender, con motivo de investigaciones relativas a bandas armadas, el derecho de:",
+    "opciones": {
+      "A": "Huelga.",
+      "B": "Inviolabilidad del domicilio.",
+      "C": "Libertad de circulación.",
+      "D": "Las respuestas b) y c) son correctas."
+    },
+    "correcta": "B",
+    "explicacion": "Inviolabilidad del domicilio.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q028",
+    "test": 2,
+    "n": 28,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "Nuestra Constitución trata de los derechos y deberes fundamentales de los españoles en su Título I, denominado:",
+    "opciones": {
+      "A": "De los derechos y deberes fundamentales.",
+      "B": "De los deberes de los españoles.",
+      "C": "De los derechos de los españoles.",
+      "D": "De los derechos y deberes principales de los españoles."
+    },
+    "correcta": "A",
+    "explicacion": "De los derechos y deberes fundamentales.",
+    "flags": []
+  },
+  {
+    "id": "T02-Q029",
+    "test": 2,
+    "n": 29,
+    "tema": "Test 2 · Derechos y deberes fundamentales. Su garantía y suspensión",
+    "pregunta": "¿En qué artículos de nuestra CE se recogen los derechos fundamentales y de las libertades públicas?",
+    "opciones": {
+      "A": "En los artículos 14 a 30.",
+      "B": "En los artículos 15 a 30.",
+      "C": "En los artículos 14 a 29.",
+      "D": "En los artículos 15 a 29."
+    },
+    "correcta": "D",
+    "explicacion": "En los artículos 15 a 29.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q001",
+    "test": 8,
+    "n": 1,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "¿Qué rango ostentan los Delegados del Gobierno en las Comunidades Autónomas?",
+    "opciones": {
+      "A": "Subdirector General.",
+      "B": "Subsecretario General.",
+      "C": "Secretario de Estado.",
+      "D": "Subsecretario."
+    },
+    "correcta": "D",
+    "explicacion": "Subsecretario.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q002",
+    "test": 8,
+    "n": 2,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Los Secretarios Generales Técnicos tienen categoría de:",
+    "opciones": {
+      "A": "Subsecretario.",
+      "B": "Director General.",
+      "C": "Secretario de Estado.",
+      "D": "Jefe de Servicio."
+    },
+    "correcta": "B",
+    "explicacion": "Director General.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q003",
+    "test": 8,
+    "n": 3,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El nombramiento de los Delegados del Gobierno en las Comunidades Autónomas es competencia del:",
+    "opciones": {
+      "A": "Parlamento Autonómico.",
+      "B": "Presidente del Gobierno.",
+      "C": "Consejo de Gobierno.",
+      "D": "Consejo de Ministros."
+    },
+    "correcta": "D",
+    "explicacion": "Consejo de Ministros.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q004",
+    "test": 8,
+    "n": 4,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El Jefe Superior de un Departamento Ministerial, después del Ministro, en el supuesto de que no exista un Secretario de Estado, es el:",
+    "opciones": {
+      "A": "Director General.",
+      "B": "Subsecretario.",
+      "C": "Secretario General.",
+      "D": "Secretario General Técnico."
+    },
+    "correcta": "B",
+    "explicacion": "Subsecretario.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q005",
+    "test": 8,
+    "n": 5,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "¿Quién nombra a los Subdelegados del Gobierno?",
+    "opciones": {
+      "A": "El Delegado del Gobierno.",
+      "B": "El Ministro de Hacienda y Función Pública.",
+      "C": "El Consejo de Ministros.",
+      "D": "El Presidente del Gobierno."
+    },
+    "correcta": "A",
+    "explicacion": "El Delegado del Gobierno.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q006",
+    "test": 8,
+    "n": 6,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "¿Qué rango ostentan los Subdelegados del Gobierno?",
+    "opciones": {
+      "A": "Subdirector General.",
+      "B": "Secretario General.",
+      "C": "Secretario General Técnico.",
+      "D": "Subsecretario."
+    },
+    "correcta": "A",
+    "explicacion": "Subdirector General.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q007",
+    "test": 8,
+    "n": 7,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Según la doctrina, aquel sector de la Administración Pública integrado por los Entes públicos menores de carácter no territorial, se denomina:",
+    "opciones": {
+      "A": "Administración no territorial.",
+      "B": "Administración Institucional.",
+      "C": "Administración Institucional menor.",
+      "D": "Administración Sectorial."
+    },
+    "correcta": "B",
+    "explicacion": "Administración Institucional.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q008",
+    "test": 8,
+    "n": 8,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Indica cuál de las siguientes no es una de las competencias de los Secretarios de Estado:",
+    "opciones": {
+      "A": "Nombrar y separar a los Subdirectores Generales de la Secretaría de Estado.",
+      "B": "Autorizar las comisiones de servicio con derecho a indemnización por cuantía exacta para los altos cargos dependientes de la Secretaría de Estado.",
+      "C": "Conceder subvenciones y ayudas con cargo a los créditos de gasto propios de la Secretaría de Estado, con los límites establecidos por el titular del Departamento.",
+      "D": "Desempeñar la jefatura superior de todo el personal del Departamento."
+    },
+    "correcta": "D",
+    "explicacion": "Desempeñar la jefatura superior de todo el personal del Departamento.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q009",
+    "test": 8,
+    "n": 9,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Indica cuál de los siguientes no es un órgano directivo de la Administración General del Estado:",
+    "opciones": {
+      "A": "Los Secretarios Generales Técnicos.",
+      "B": "Los Secretarios Generales.",
+      "C": "Los Secretarios de Estado.",
+      "D": "Los Subsecretarios."
+    },
+    "correcta": "C",
+    "explicacion": "Los Secretarios de Estado.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q010",
+    "test": 8,
+    "n": 10,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "¿Cómo se denomina a la Entidad Local determinada por la agrupación de Municipios, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines?",
+    "opciones": {
+      "A": "Comarca.",
+      "B": "Región.",
+      "C": "Provincia.",
+      "D": "Mancomunidad de Municipios."
+    },
+    "correcta": "C",
+    "explicacion": "Provincia. Sincronización de Erratas: En la pregunta 10 , el manual de soluciones indica la opción C (Provincia). He respetado la clave del libro aunque técnicamente las agrupaciones de municipios suelen denominarse Mancomunidades o Comarcas",
+    "flags": ["revisar_posible_errata_libro"]
+  },
+  {
+    "id": "T08-Q011",
+    "test": 8,
+    "n": 11,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Las Administraciones Públicas actúan para el cumplimiento de sus fines con:",
+    "opciones": {
+      "A": "Personalidad jurídica única.",
+      "B": "Personalidad jurídica plural.",
+      "C": "Personalidad jurídica colectiva.",
+      "D": "Sin personalidad jurídica, pero con capacidad de obrar."
+    },
+    "correcta": "A",
+    "explicacion": "Personalidad jurídica única.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q012",
+    "test": 8,
+    "n": 12,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "A los Delegados del Gobierno de la Nación en las Comunidades Autónomas se refiere el siguiente artículo de la Constitución:",
+    "opciones": {
+      "A": "137.",
+      "B": "103.",
+      "C": "156.",
+      "D": "154."
+    },
+    "correcta": "D",
+    "explicacion": "154.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q013",
+    "test": 8,
+    "n": 13,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El Delegado del Gobierno de la Nación en una Comunidad Autónoma se nombra por el:",
+    "opciones": {
+      "A": "Consejo de Ministros.",
+      "B": "Rey.",
+      "C": "Presidente del Gobierno de la Nación.",
+      "D": "Parlamento Autonómico."
+    },
+    "correcta": "A",
+    "explicacion": "Consejo de Ministros.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q014",
+    "test": 8,
+    "n": 14,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "La propuesta del nombramiento del Delegado del Gobierno de la Nación en las Comunidades Autónomas corresponde al/a los:",
+    "opciones": {
+      "A": "Presidente del Gobierno de la Nación.",
+      "B": "Parlamento Autonómico.",
+      "C": "Subdelegados del Gobierno en las provincias afectadas.",
+      "D": "Ministro del Interior."
+    },
+    "correcta": "A",
+    "explicacion": "Presidente del Gobierno de la Nación.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q015",
+    "test": 8,
+    "n": 15,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El Consejo de Ministros, en el nombramiento de Subdelegados del Gobierno en las provincias:",
+    "opciones": {
+      "A": "Delibera previamente.",
+      "B": "Lo confiere.",
+      "C": "No interviene.",
+      "D": "Lo propone."
+    },
+    "correcta": "C",
+    "explicacion": "No interviene.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q016",
+    "test": 8,
+    "n": 16,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Los Subdelegados del Gobierno en las provincias, salvo en las Comunidades Autónomas uniprovinciales, tienen nivel orgánico de:",
+    "opciones": {
+      "A": "Director General.",
+      "B": "Subsecretario.",
+      "C": "Subdirector General.",
+      "D": "Secretario de Estado."
+    },
+    "correcta": "C",
+    "explicacion": "Subdirector General.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q017",
+    "test": 8,
+    "n": 17,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Según la Constitución, las Entidades que forman parte de la organización territorial del Estado tienen la nota común de:",
+    "opciones": {
+      "A": "Autogobierno.",
+      "B": "Independencia.",
+      "C": "Autonomía.",
+      "D": "Financiación propia."
+    },
+    "correcta": "C",
+    "explicacion": "Autonomía.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q018",
+    "test": 8,
+    "n": 18,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "La titularidad de la soberanía española radica en el/las:",
+    "opciones": {
+      "A": "Cortes Generales como representantes del pueblo español.",
+      "B": "Rey como Jefe del Estado.",
+      "C": "Pueblo mismo.",
+      "D": "Nacionalidades y regiones que integran España."
+    },
+    "correcta": "C",
+    "explicacion": "Pueblo mismo.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q019",
+    "test": 8,
+    "n": 19,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "No pueden constituirse en Comunidades Autónomas los territorios:",
+    "opciones": {
+      "A": "Que no estén integrados en la organización provincial.",
+      "B": "Que, no siendo superiores a una Provincia, tengan entidad regional histórica.",
+      "C": "Que, no siendo superiores a una Provincia, no tengan entidad regional histórica.",
+      "D": "Interinsulares."
+    },
+    "correcta": "D",
+    "explicacion": "Interinsulares.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q020",
+    "test": 8,
+    "n": 20,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "La vía ordinaria de acceso a la autonomía por el artículo 143 de la Constitución se sigue por los/las:",
+    "opciones": {
+      "A": "Provincias con entidad regional histórica.",
+      "B": "Territorios que en el pasado hubieren plebiscitado afirmativamente proyecto de Estatuto de Autonomía.",
+      "C": "Provincia sin entidad regional histórica directamente.",
+      "D": "Supuestos especiales de Ceuta, Melilla y Gibraltar."
+    },
+    "correcta": "A",
+    "explicacion": "Provincias con entidad regional histórica.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q021",
+    "test": 8,
+    "n": 21,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Entre las determinaciones de los Estatutos de Autonomía no es necesario incluir la:",
+    "opciones": {
+      "A": "Delimitación de su territorio.",
+      "B": "Denominación de las instituciones autónomas propias.",
+      "C": "Denominación de la Comunidad.",
+      "D": "Denominación, organización y sede de sus instituciones administrativas."
+    },
+    "correcta": "D",
+    "explicacion": "Denominación, organización y sede de sus instituciones administrativas.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q022",
+    "test": 8,
+    "n": 22,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "En las Comunidades Autónomas que siguen la vía común, el Proyecto de Estatuto será elaborado por la/los:",
+    "opciones": {
+      "A": "Asamblea de Parlamentarios que se constituye al efecto.",
+      "B": "Comisión Constitucional del Congreso de los Diputados.",
+      "C": "Diputación Provincial correspondiente.",
+      "D": "Miembros de la Diputación u órgano interinsular y por los Diputados y Senadores elegidos por ellas."
+    },
+    "correcta": "D",
+    "explicacion": "Miembros de la Diputación u órgano interinsular y por los Diputados y Senadores elegidos por ellas.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q023",
+    "test": 8,
+    "n": 23,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El voto de ratificación por los Plenos del Senado y del Congreso de los Diputados se dará en el/las:",
+    "opciones": {
+      "A": "Comunidades Autónomas que siguen la vía común.",
+      "B": "Comunidades Autónomas que siguen la vía especial.",
+      "C": "Acceso a la autonomía de Ceuta y Melilla.",
+      "D": "Acceso a la autonomía de Gibraltar."
+    },
+    "correcta": "B",
+    "explicacion": "Comunidades Autónomas que siguen la vía especial.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q024",
+    "test": 8,
+    "n": 24,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "La responsabilidad política del Presidente de una Comunidad Autónoma se exige por el/la:",
+    "opciones": {
+      "A": "Sala de lo Penal del Tribunal Supremo.",
+      "B": "Congreso de los Diputados.",
+      "C": "Tribunal Superior de Justicia de la Comunidad Autónoma.",
+      "D": "Asamblea Legislativa de la Comunidad Autónoma."
+    },
+    "correcta": "D",
+    "explicacion": "Asamblea Legislativa de la Comunidad Autónoma.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q025",
+    "test": 8,
+    "n": 25,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "La Asamblea Legislativa de las Comunidades Autónomas se elige:",
+    "opciones": {
+      "A": "Con criterios de representación territorial.",
+      "B": "Con criterios de representación proporcional.",
+      "C": "Por sufragio individual.",
+      "D": "Con criterios de representación provincial."
+    },
+    "correcta": "B",
+    "explicacion": "Con criterios de representación proporcional.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q026",
+    "test": 8,
+    "n": 26,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Con el fin de corregir los desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad, se constituye:",
+    "opciones": {
+      "A": "El Fondo de Compensación Interterritorial.",
+      "B": "El Comité Económico Interterritorial.",
+      "C": "El Consejo de Política Fiscal y Financiera.",
+      "D": "El FASI."
+    },
+    "correcta": "A",
+    "explicacion": "El Fondo de Compensación Interterritorial.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q027",
+    "test": 8,
+    "n": 27,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Los Estatutos de Autonomía deberán contener el/la/las:",
+    "opciones": {
+      "A": "Competencias que se dejan al Estado y las que asume la Comunidad.",
+      "B": "Competencias que, en función de la Constitución, asume cada Comunidad Autónoma.",
+      "C": "Desarrollo de la Administración Autonómica.",
+      "D": "División provincial y órganos de gobierno."
+    },
+    "correcta": "B",
+    "explicacion": "Competencias que, en función de la Constitución, asume cada Comunidad Autónoma.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q028",
+    "test": 8,
+    "n": 28,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "En la reforma de los Estatutos intervienen las Cortes Generales:",
+    "opciones": {
+      "A": "Siempre.",
+      "B": "Nunca.",
+      "C": "Solo cuanto se trata de Comunidades Autónomas que accedieron por la vía común.",
+      "D": "En las Comunidades Autónomas de vía especial exclusivamente."
+    },
+    "correcta": "A",
+    "explicacion": "Siempre.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q029",
+    "test": 8,
+    "n": 29,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Los miembros de las Diputaciones u órganos interinsulares intervienen en la elaboración de los Estatutos de Autonomía:",
+    "opciones": {
+      "A": "En todo caso.",
+      "B": "Nunca.",
+      "C": "En las Comunidades Autónomas de vía común.",
+      "D": "En las Comunidades Autónomas de vía especial."
+    },
+    "correcta": "C",
+    "explicacion": "En las Comunidades Autónomas de vía común.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q030",
+    "test": 8,
+    "n": 30,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Los Estatutos de Autonomía en la vía común se aprueban por el:",
+    "opciones": {
+      "A": "Congreso de los Diputados mediante ley orgánica.",
+      "B": "Congreso de los Diputados y Senado por ley orgánica.",
+      "C": "Congreso de los Diputados y Senado por ley ordinaria.",
+      "D": "Parlamento Autonómico solamente."
+    },
+    "correcta": "B",
+    "explicacion": "Congreso de los Diputados y Senado por ley orgánica.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q031",
+    "test": 8,
+    "n": 31,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "La más alta representación de una Comunidad Autónoma la ostenta el:",
+    "opciones": {
+      "A": "Presidente del Parlamento Autonómico.",
+      "B": "Presidente de la Comunidad Autónoma.",
+      "C": "Rey.",
+      "D": "Presidente del Gobierno de la Nación."
+    },
+    "correcta": "B",
+    "explicacion": "Presidente de la Comunidad Autónoma.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q032",
+    "test": 8,
+    "n": 32,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "La asunción de competencias y de mayor autonomía por las Comunidades Autónomas es, como regla general:",
+    "opciones": {
+      "A": "Regresiva.",
+      "B": "Progresiva.",
+      "C": "Automática.",
+      "D": "Inmediata."
+    },
+    "correcta": "B",
+    "explicacion": "Progresiva.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q033",
+    "test": 8,
+    "n": 33,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "En la elaboración por la vía común de los Estatutos de Autonomía:",
+    "opciones": {
+      "A": "No intervienen los Municipios afectados.",
+      "B": "Intervendrán en todo caso.",
+      "C": "Solo intervienen las Diputaciones Provinciales u órganos interinsulares.",
+      "D": "Solo intervienen los Municipios y los Diputados y Senadores."
+    },
+    "correcta": "A",
+    "explicacion": "No intervienen los Municipios afectados.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q034",
+    "test": 8,
+    "n": 34,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El principio de solidaridad consagrado por el artículo 138 de la Constitución exige una atención especial a:",
+    "opciones": {
+      "A": "Las Comunidades Autónomas de economía más deprimida.",
+      "B": "Las Entidades de ámbito territorial inferior al municipal.",
+      "C": "Todas las partes del territorio nacional.",
+      "D": "Las Islas."
+    },
+    "correcta": "D",
+    "explicacion": "Las Islas.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q035",
+    "test": 8,
+    "n": 35,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "La federación de Comunidades Autónomas, según la Constitución:",
+    "opciones": {
+      "A": "Solo se permite respecto de las limítrofes.",
+      "B": "Requiere Ley Orgánica de las Cortes Generales.",
+      "C": "Ha de efectuarse previa reforma de la propia Constitución.",
+      "D": "Está absolutamente prohibida."
+    },
+    "correcta": "D",
+    "explicacion": "Está absolutamente prohibida.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q036",
+    "test": 8,
+    "n": 36,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Según la Constitución, las Haciendas Locales deben:",
+    "opciones": {
+      "A": "Ser autosuficientes.",
+      "B": "Carecer de recursos propios.",
+      "C": "Supeditarse a la estatal.",
+      "D": "Nada de lo anterior es cierto."
+    },
+    "correcta": "D",
+    "explicacion": "Nada de lo anterior es cierto.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q037",
+    "test": 8,
+    "n": 37,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El carácter de cauce inmediato de participación ciudadana se predica del/de la:",
+    "opciones": {
+      "A": "Comunidad Autónoma.",
+      "B": "Municipio.",
+      "C": "Estado.",
+      "D": "Provincia."
+    },
+    "correcta": "B",
+    "explicacion": "Municipio.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q038",
+    "test": 8,
+    "n": 38,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Según el artículo 24 bis de la Ley 7/1985, las Leyes de las CCAA sobre régimen local regularán los siguientes entes, que carecerán de personalidad jurídica, como forma de organización desconcentrada del Municipio:",
+    "opciones": {
+      "A": "Entes de ámbito territorial inferior al Municipio.",
+      "B": "Mancomunidades.",
+      "C": "Comarcas.",
+      "D": "Ninguno de los anteriores."
+    },
+    "correcta": "A",
+    "explicacion": "Entes de ámbito territorial inferior al Municipio.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q039",
+    "test": 8,
+    "n": 39,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Tiene el carácter de división territorial para el cumplimiento de las actividades del Estado un/una:",
+    "opciones": {
+      "A": "Comarca.",
+      "B": "Municipio.",
+      "C": "Provincia.",
+      "D": "Comunidades Autónomas."
+    },
+    "correcta": "C",
+    "explicacion": "Provincia.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q040",
+    "test": 8,
+    "n": 40,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Un Colegio Oficial de Abogados:",
+    "opciones": {
+      "A": "Tiene personalidad jurídica propia.",
+      "B": "Carece de esta personalidad.",
+      "C": "Depende del Ente que lo crea.",
+      "D": "Solo tiene personalidad respecto de los asuntos que determine la ley."
+    },
+    "correcta": "A",
+    "explicacion": "Tiene personalidad jurídica propia.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q041",
+    "test": 8,
+    "n": 41,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El sustrato de una Fundación es una:",
+    "opciones": {
+      "A": "Pluralidad de bienes.",
+      "B": "Pluralidad de personas.",
+      "C": "Comunidad de bienes.",
+      "D": "Comunidad de Entes."
+    },
+    "correcta": "A",
+    "explicacion": "Pluralidad de bienes.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q042",
+    "test": 8,
+    "n": 42,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Los Ministerios contarán, en todo caso, con una Subsecretaría, y dependiendo de ella:",
+    "opciones": {
+      "A": "Una Dirección Técnica.",
+      "B": "Una Secretaría General Técnica.",
+      "C": "Una Subsecretaría General.",
+      "D": "Una Subdirección General Técnica."
+    },
+    "correcta": "B",
+    "explicacion": "Una Secretaría General Técnica.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q043",
+    "test": 8,
+    "n": 43,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Los órganos directivos de la Administración General del Estado se ordenan jerárquicamente entre sí de la siguiente forma:",
+    "opciones": {
+      "A": "Subdirector general, Subsecretario y Director general.",
+      "B": "Director general, Subsecretario y Subdirector general.",
+      "C": "Director general, Subdirector general y Subsecretario.",
+      "D": "Subsecretario, Director general y Subdirector general."
+    },
+    "correcta": "D",
+    "explicacion": "Subsecretario, Director general y Subdirector general.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q044",
+    "test": 8,
+    "n": 44,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "Señala cuál de las siguientes no es una función de los Ministros:",
+    "opciones": {
+      "A": "Dirigir la actuación de los titulares de los órganos superiores y directivos del Ministerio.",
+      "B": "Otorgar premios y recompensas propios del Departamento.",
+      "C": "Autorizar las comisiones de servicio sin derecho a indemnización para altos cargos dependientes del Ministro.",
+      "D": "Ejercer la potestad reglamentaria en las materias propias de su Departamento."
+    },
+    "correcta": "C",
+    "explicacion": "Autorizar las comisiones de servicio sin derecho a indemnización para altos cargos dependientes del Ministro.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q045",
+    "test": 8,
+    "n": 45,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "El Servicio Exterior del Estado se rige en todo lo concerniente a su composición, organización, funciones, integración y personal por lo dispuesto en:",
+    "opciones": {
+      "A": "La Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado.",
+      "B": "La Ley 4/2016, de 25 de marzo, del Servicio Exterior del Estado.",
+      "C": "La Ley 6/2015 de 25 de marzo, del Servicio Exterior del Estado.",
+      "D": "La Ley 7/2012, de 25 de marzo, de la Acción y del Servicio Exterior del Estado."
+    },
+    "correcta": "A",
+    "explicacion": "La Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado.",
+    "flags": []
+  },
+  {
+    "id": "T08-Q046",
+    "test": 8,
+    "n": 46,
+    "tema": "Test 8 · Idea general de las Administraciones Públicas en el ordenamiento español. La Administración General del Estado. Las Comunidades Autónomas. La Administración Local e Institucional",
+    "pregunta": "De las siguientes materias, ¿cuáles no son competencia exclusiva del Estado?",
+    "opciones": {
+      "A": "Legislación sobre propiedad intelectual e industrial.",
+      "B": "Fomento y coordinación general de la investigación científica y técnica.",
+      "C": "Los montes y aprovechamientos forestales.",
+      "D": "Defensa y Fuerzas Armadas."
+    },
+    "correcta": "C",
+    "explicacion": "Los montes y aprovechamientos forestales.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q001",
+    "test": 9,
+    "n": 1,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "La mecanización e informatización de los trabajos burocráticos es un exponente del principio de:",
+    "opciones": {
+      "A": "Legalidad.",
+      "B": "Eficacia.",
+      "C": "Descentralización.",
+      "D": "Jerarquía."
+    },
+    "correcta": "B",
+    "explicacion": "Eficacia.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q002",
+    "test": 9,
+    "n": 2,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "La dirección de los órganos inferiores, por parte de los superiores, se suele llevar a efecto a través de:",
+    "opciones": {
+      "A": "Instrucciones y órdenes de servicio.",
+      "B": "La resolución de los conflictos entre los mismos.",
+      "C": "La delegación de competencias entre ellos.",
+      "D": "Todo lo anterior."
+    },
+    "correcta": "A",
+    "explicacion": "Instrucciones y órdenes de servicio.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q003",
+    "test": 9,
+    "n": 3,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Como consecuencia de la delegación de competencias, estas:",
+    "opciones": {
+      "A": "Se transfieren a órganos superiores.",
+      "B": "Se ejercen por órganos inferiores, manteniéndose la titularidad de las mismas en el órgano delegante.",
+      "C": "Dejan de pertenecer a la esfera jurídica del órgano delegante.",
+      "D": "El órgano al que se delegan puede fiscalizar la actividad del órgano delegante."
+    },
+    "correcta": "B",
+    "explicacion": "Se ejercen por órganos inferiores, manteniéndose la titularidad de las mismas en el órgano delegante.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q004",
+    "test": 9,
+    "n": 4,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "La revocación de una delegación de competencias:",
+    "opciones": {
+      "A": "Está prohibida con carácter general.",
+      "B": "Solo se admite en caso de insuficiencia técnica del órgano al que se han delegado.",
+      "C": "Puede producirse en cualquier momento.",
+      "D": "Ha de efectuarse tras sentencia judicial al efecto."
+    },
+    "correcta": "C",
+    "explicacion": "Puede producirse en cualquier momento.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q005",
+    "test": 9,
+    "n": 5,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Normalmente, la revocación de los actos de los inferiores por el superior jerárquico puede producirse tras la interposición del siguiente recurso o reclamación:",
+    "opciones": {
+      "A": "De alzada.",
+      "B": "De revisión.",
+      "C": "Contencioso-administrativo.",
+      "D": "De reposición."
+    },
+    "correcta": "A",
+    "explicacion": "De alzada.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q006",
+    "test": 9,
+    "n": 6,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "La desconcentración administrativa:",
+    "opciones": {
+      "A": "Supone el traslado de la titularidad de competencias entre Entes con personalidad jurídica propia.",
+      "B": "Solo se da entre entes territoriales.",
+      "C": "No requiere norma que la autorice.",
+      "D": "Nada de lo anterior es correcto."
+    },
+    "correcta": "D",
+    "explicacion": "Nada de lo anterior es correcto.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q007",
+    "test": 9,
+    "n": 7,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Si un Ministerio traslada la titularidad de una competencia desde sus servicios centrales a sus servicios periféricos, estamos ante un supuesto de:",
+    "opciones": {
+      "A": "Descentralización.",
+      "B": "Desconcentración.",
+      "C": "Jerarquía administrativa.",
+      "D": "Avocación."
+    },
+    "correcta": "B",
+    "explicacion": "Desconcentración.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q008",
+    "test": 9,
+    "n": 8,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Si el Estado traslada la titularidad de una competencia a un ente público menor, por ejemplo, el Instituto para la Conservación de la Naturaleza, estaremos ante un supuesto de:",
+    "opciones": {
+      "A": "Desconcentración.",
+      "B": "Descentralización territorial.",
+      "C": "Delegación de competencias.",
+      "D": "Nada de lo anterior es correcto."
+    },
+    "correcta": "D",
+    "explicacion": "Nada de lo anterior es correcto.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q009",
+    "test": 9,
+    "n": 9,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "La avocación de competencias:",
+    "opciones": {
+      "A": "Requiere la previa delegación de las mismas.",
+      "B": "Puede ser instada procedimentalmente por el superior jerárquico.",
+      "C": "Solo se admite en supuestos de descentralización.",
+      "D": "Está prohibida en nuestro Derecho Administrativo."
+    },
+    "correcta": "B",
+    "explicacion": "Puede ser instada procedimentalmente por el superior jerárquico.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q010",
+    "test": 9,
+    "n": 10,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "En virtud del principio de avocación:",
+    "opciones": {
+      "A": "Se transfiere la competencia del órgano superior al inferior.",
+      "B": "Se transfiere la competencia del órgano inferior al superior.",
+      "C": "Se asume el ejercicio de una competencia de un inferior por parte del superior.",
+      "D": "Se asume la titularidad de una competencia de un inferior por parte del superior."
+    },
+    "correcta": "C",
+    "explicacion": "Se asume el ejercicio de una competencia de un inferior por parte del superior.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q011",
+    "test": 9,
+    "n": 11,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Se entiende por:",
+    "opciones": {
+      "A": "Cooperación, cuando dos o más Administraciones Públicas, de manera voluntaria y en ejercicio de sus competencias, asumen compromisos genéricos en aras de una acción común.",
+      "B": "Cooperación, cuando dos o más Administraciones Públicas, de manera impuesta y en ejercicio de sus competencias, asumen compromisos genéricos en aras de una acción común.",
+      "C": "Colaboración, cuando dos o más Administraciones Públicas, de manera voluntaria y en ejercicio de sus competencias, asumen compromisos específicos en aras de una acción común.",
+      "D": "Colaboración, cuando dos o más Administraciones Públicas, de manera impuesta y en ejercicio de sus competencias, asumen compromisos específicos en aras de una acción común."
+    },
+    "correcta": "B",
+    "explicacion": "Cooperación, cuando dos o más Administraciones Públicas, de manera impuesta y en ejercicio de sus competencias, asumen compromisos genéricos en aras de una acción común.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q012",
+    "test": 9,
+    "n": 12,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "La transferencia de servicios del Estado a las CCAA constituye un supuesto de descentralización:",
+    "opciones": {
+      "A": "Institucional.",
+      "B": "Funcional.",
+      "C": "En Administración Local.",
+      "D": "Ninguna es correcta."
+    },
+    "correcta": "C",
+    "explicacion": "En Administración Local. Aunque el libro indica que es *Administración Local* (opción C), en el contexto jurídico general se suele considerar descentralización territorial. No obstante, he mantenido la respuesta C para que coincida con tu clave oficial.",
+    "flags": ["revisar_consistencia_libro"]
+  },
+  {
+    "id": "T09-Q013",
+    "test": 9,
+    "n": 13,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Si un órgano administrativo traslada el ejercicio de una competencia propia a otro órgano de la misma Administración, se está ante un supuesto de:",
+    "opciones": {
+      "A": "Desconcentración.",
+      "B": "Descentralización funcional.",
+      "C": "Descentralización territorial.",
+      "D": "Delegación."
+    },
+    "correcta": "A",
+    "explicacion": "Desconcentración.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q014",
+    "test": 9,
+    "n": 14,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Los actos de delegación de competencias deben publicarse:",
+    "opciones": {
+      "A": "En todo caso.",
+      "B": "Solo si se trata de competencias que afecten a terceros.",
+      "C": "En el Boletín Oficial del Estado.",
+      "D": "Nada de lo anterior es cierto."
+    },
+    "correcta": "C",
+    "explicacion": "En el Boletín Oficial del Estado.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q015",
+    "test": 9,
+    "n": 15,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "El mandato constitucional que obliga a la Administración Pública a actuar conforme a los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación se recoge en el:",
+    "opciones": {
+      "A": "Artículo 104.",
+      "B": "Artículo 9.3.",
+      "C": "Artículo 103.2.",
+      "D": "Artículo 103.1."
+    },
+    "correcta": "D",
+    "explicacion": "Artículo 103.1.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q016",
+    "test": 9,
+    "n": 16,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "La competencia para crear los órganos administrativos corresponde a:",
+    "opciones": {
+      "A": "Las Cortes Generales.",
+      "B": "El Consejo de Ministros o el Consejo de Gobierno.",
+      "C": "El Rey o el Presidente de la Comunidad Autónoma.",
+      "D": "Los Ministerios o Consejerías implicados en los sectores de la actividad administrativa a los que se refieren."
+    },
+    "correcta": "D",
+    "explicacion": "Los Ministerios o Consejerías implicados en los sectores de la actividad administrativa a los que se refieren.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q017",
+    "test": 9,
+    "n": 17,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Se entiende por descentralización funcional:",
+    "opciones": {
+      "A": "El traslado de la titularidad de competencias por parte de una Administración a otra o a Entes pertenecientes a la misma, pero dotados de personalidad jurídica.",
+      "B": "La atribución de competencias a órganos de una misma Administración.",
+      "C": "La creación de órganos periféricos de una Administración.",
+      "D": "La creación de municipios y provincias."
+    },
+    "correcta": "A",
+    "explicacion": "El traslado de la titularidad de competencias por parte de una Administración a otra o a Entes pertenecientes a la misma, pero dotados de personalidad jurídica.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q018",
+    "test": 9,
+    "n": 18,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "En virtud del principio de jerarquía, las instrucciones y órdenes de servicio dadas por los superiores tienen la categoría de normas internas de obligado cumplimiento por los subordinados, so pena de incurrir en:",
+    "opciones": {
+      "A": "Responsabilidad civil.",
+      "B": "Responsabilidad penal.",
+      "C": "Responsabilidad disciplinaria.",
+      "D": "Responsabilidad laboral."
+    },
+    "correcta": "C",
+    "explicacion": "Responsabilidad disciplinaria.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q019",
+    "test": 9,
+    "n": 19,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "En virtud del principio de jerarquía, los superiores deberán resolver los conflictos positivos de atribuciones que surjan entre órganos inferiores, y estos conflictos positivos se dan:",
+    "opciones": {
+      "A": "Cuando dos o más órganos no quieran entender de una cuestión al no considerarse competentes para resolverla.",
+      "B": "Cuando dos o más órganos quieran entender de una cuestión al considerarse competentes para resolverla.",
+      "C": "Cuando ningún órgano quiera entender de una cuestión, al no considerarse ninguno competente para resolverla.",
+      "D": "Cuando unos órganos se consideran competentes y otros no para resolverla."
+    },
+    "correcta": "B",
+    "explicacion": "Cuando dos o más órganos quieran entender de una cuestión al considerarse competentes para resolverla.",
+    "flags": []
+  },
+  {
+    "id": "T09-Q020",
+    "test": 9,
+    "n": 20,
+    "tema": "Test 9 · Principios de actuación de la Administración Pública: eficacia, jerarquía, descentralización, desconcentración, coordinación, buena fe y confianza legítima",
+    "pregunta": "Los convenios suscritos por la Administración General del Estado o alguno de sus organismos públicos o entidades de derecho público vinculados o dependientes, serán publicados en el plazo de:",
+    "opciones": {
+      "A": "15 días hábiles desde su formalización en el Boletín Oficial correspondiente.",
+      "B": "10 días naturales desde su formalización en el Boletín Oficial correspondiente.",
+      "C": "10 días hábiles desde su formalización en el Boletín Oficial correspondiente.",
+      "D": "15 días naturales desde su formalización en el Boletín Oficial correspondiente."
+    },
+    "correcta": "C",
+    "explicacion": "10 días hábiles desde su formalización en el Boletín Oficial correspondiente.Corresponde al artículo 48.8 de la Ley 40/2015 (LRJSP), confirmando los 10 días hábiles.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q001",
+    "test": 11,
+    "n": 1,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "El ejercicio de la acción popular es significativa de una participación:",
+    "opciones": {
+      "A": "Funcional.",
+      "B": "Cooperativa.",
+      "C": "Orgánica.",
+      "D": "Obligatoria."
+    },
+    "correcta": "A",
+    "explicacion": "Funcional.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q002",
+    "test": 11,
+    "n": 2,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Cómo se denomina al administrado que se encuentra respecto de la Administración en un estado de sujeción especial, es decir, especialmente vinculado a ella?",
+    "opciones": {
+      "A": "Administrado cualificado.",
+      "B": "Administrado especial.",
+      "C": "Administrado único.",
+      "D": "Administrado activo."
+    },
+    "correcta": "A",
+    "explicacion": "Administrado cualificado.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q003",
+    "test": 11,
+    "n": 3,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Los actos jurídicos de los administrados por los cuales estos abdican de una titularidad jurídica que les corresponde, se denominan:",
+    "opciones": {
+      "A": "Desistimientos.",
+      "B": "Renuncias.",
+      "C": "Decaimientos.",
+      "D": "Negativas."
+    },
+    "correcta": "B",
+    "explicacion": "Renuncias.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q004",
+    "test": 11,
+    "n": 4,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "En cuanto a su nacimiento, toda relación jurídico-administrativa tiene su punto de arranque en:",
+    "opciones": {
+      "A": "Un negocio jurídico.",
+      "B": "Una disposición legal.",
+      "C": "Un hecho o un acto.",
+      "D": "Todas las respuestas son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Todas las respuestas son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q005",
+    "test": 11,
+    "n": 5,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Cómo se denomina al administrado que se encuentra respecto de la Administración en un estado de sujeción general y que es tratado por la norma de una forma impersonal, siendo esta la posición normal?",
+    "opciones": {
+      "A": "Administrado general.",
+      "B": "Administrado común.",
+      "C": "Administrado simple.",
+      "D": "Administrado pasivo."
+    },
+    "correcta": "C",
+    "explicacion": "Administrado simple.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q006",
+    "test": 11,
+    "n": 6,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Cuál de las siguientes no es una característica de la relación jurídico-administrativa?",
+    "opciones": {
+      "A": "La Administración actúa normalmente como parte activa de la relación, es decir, ejercita en ella las potestades y prerrogativas que el ordenamiento jurídico le reconoce para el cumplimiento de sus fines.",
+      "B": "La Administración ha de intervenir en tal relación como tal, y no como persona de Derecho Privado.",
+      "C": "Esta relación está regulada por el Derecho Administrativo y el Derecho Civil.",
+      "D": "Presencia en ella de la Administración, como sujeto de la relación, normalmente en el lado activo de la misma, junto al Administrado, que suele situarse en el lado pasivo."
+    },
+    "correcta": "C",
+    "explicacion": "Esta relación está regulada por el Derecho Administrativo y el Derecho Civil.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q007",
+    "test": 11,
+    "n": 7,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La Constitución consagra el derecho de los ciudadanos a participar en los asuntos públicos, directamente o por medio de representantes libremente elegidos, en su artículo:",
+    "opciones": {
+      "A": "Veintitrés.",
+      "B": "Veinticinco.",
+      "C": "Treinta y cinco.",
+      "D": "Cuarenta."
+    },
+    "correcta": "A",
+    "explicacion": "Veintitrés.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q008",
+    "test": 11,
+    "n": 8,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Cuando la Administración Pública no tenga por ciertos los hechos declarados por un interesado:",
+    "opciones": {
+      "A": "Abrirá un período de prueba.",
+      "B": "Abrirá una información pública.",
+      "C": "Le dará audiencia.",
+      "D": "No los tendrá en cuenta."
+    },
+    "correcta": "A",
+    "explicacion": "Abrirá un período de prueba.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q009",
+    "test": 11,
+    "n": 9,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La edad mínima para entablar por sí solo relaciones con la Administración Pública es de:",
+    "opciones": {
+      "A": "Dieciocho años.",
+      "B": "Depende de los casos.",
+      "C": "Veintiún años la mujer casada.",
+      "D": "Dieciséis años."
+    },
+    "correcta": "B",
+    "explicacion": "Depende de los casos.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q010",
+    "test": 11,
+    "n": 10,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Señala uno de los derechos que la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, reconoce a quienes tengan capacidad de obrar ante las Administraciones Públicas:",
+    "opciones": {
+      "A": "A la obtención y utilización de los medios de identificación y firma electrónica contemplados en la Ley 39/2015 de 1 de octubre.",
+      "B": "A la protección de datos de carácter personal, y en particular a la seguridad y confidencialidad de los datos que figuren en los ficheros, sistemas y aplicaciones de las Administraciones Públicas.",
+      "C": "A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+      "D": "Todas las respuestas son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Todas las respuestas son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q011",
+    "test": 11,
+    "n": 11,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La Ley 39/2015 reconoce el derecho a comunicarse con las Administraciones Públicas a través de:",
+    "opciones": {
+      "A": "Un Punto de Acceso Rápido Telemático.",
+      "B": "Un Punto Electrónico Central.",
+      "C": "Un Punto Único Electrónico de contacto.",
+      "D": "Un Punto de Acceso General electrónico de la Administración."
+    },
+    "correcta": "D",
+    "explicacion": "Un Punto de Acceso General electrónico de la Administración.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q012",
+    "test": 11,
+    "n": 12,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Qué norma reguló el Esquema Nacional de Interoperabilidad?",
+    "opciones": {
+      "A": "La Ley 30/1992 de 26 de noviembre.",
+      "B": "La Ley 11/2007, de 22 de junio.",
+      "C": "El Real Decreto 4/2010, de 8 de enero.",
+      "D": "El Real Decreto 12/2015, de 9 de abril."
+    },
+    "correcta": "C",
+    "explicacion": "El Real Decreto 4/2010, de 8 de enero.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q013",
+    "test": 11,
+    "n": 13,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "A menos que la naturaleza del documento exija otra forma más adecuada, las Administraciones Públicas deberán emitir los documentos administrativos:",
+    "opciones": {
+      "A": "Preferiblemente de forma verbal.",
+      "B": "Por escrito, a través de medios electrónicos.",
+      "C": "Verbal o en su defecto por escrito.",
+      "D": "De cualquier forma que deje constancia de su recepción."
+    },
+    "correcta": "B",
+    "explicacion": "Por escrito, a través de medios electrónicos.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q014",
+    "test": 11,
+    "n": 14,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Indica cuál de los siguientes documentos electrónicos emitidos por las Administraciones Públicas no requieren de firma electrónica, aunque sí precisan identificar su origen:",
+    "opciones": {
+      "A": "Los documentos que formen parte de un expediente administrativo.",
+      "B": "Los documentos que se publiquen con carácter sancionador.",
+      "C": "Los documentos que se publiquen con carácter meramente informativo.",
+      "D": "Todos los documentos electrónicos emitidos por una Administración Pública requieren de firma electrónica."
+    },
+    "correcta": "C",
+    "explicacion": "Los documentos que se publiquen con carácter meramente informativo.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q015",
+    "test": 11,
+    "n": 15,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Para ser considerados válidos, los documentos electrónicos deben cumplir, entre otros, con el siguiente requisito:",
+    "opciones": {
+      "A": "Incorporar una referencia temporal del momento en que han sido emitidos.",
+      "B": "Incorporar los metadatos mínimos exigidos.",
+      "C": "Disponer de los datos de identificación que permitan su individualización.",
+      "D": "Todas las respuestas son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Todas las respuestas son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q016",
+    "test": 11,
+    "n": 16,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Cuándo podrán los interesados solicitar la expedición de copias auténticas de los documentos públicos administrativos válidamente emitidos?",
+    "opciones": {
+      "A": "Únicamente en la fase de audiencia.",
+      "B": "Solo en la fase de prueba.",
+      "C": "Siempre antes de la resolución del expediente administrativo.",
+      "D": "En cualquier momento."
+    },
+    "correcta": "D",
+    "explicacion": "En cualquier momento.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q017",
+    "test": 11,
+    "n": 17,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La solicitud de copias auténticas deberá expedirse en el plazo de:",
+    "opciones": {
+      "A": "Un mes.",
+      "B": "Veinte días.",
+      "C": "Quince días a contar desde la recepción de la solicitud en el registro electrónico.",
+      "D": "Diez días."
+    },
+    "correcta": "C",
+    "explicacion": "Quince días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q018",
+    "test": 11,
+    "n": 18,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "El plazo para subsanar la falta o insuficiente acreditación de la representación es de:",
+    "opciones": {
+      "A": "Un mes.",
+      "B": "Veinte días.",
+      "C": "Quince días.",
+      "D": "Diez días, o de un plazo superior cuando las circunstancias del caso así lo requieran."
+    },
+    "correcta": "D",
+    "explicacion": "Diez días, o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q019",
+    "test": 11,
+    "n": 19,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La actuación ciudadana desde fuera del aparato administrativo, auxiliando en tareas de la Administración, es una participación:",
+    "opciones": {
+      "A": "Funcional.",
+      "B": "Orgánica.",
+      "C": "Política.",
+      "D": "Cooperativa."
+    },
+    "correcta": "A",
+    "explicacion": "Funcional.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q020",
+    "test": 11,
+    "n": 20,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La integración de un ciudadano en un Colegio Profesional es significativa de una participación:",
+    "opciones": {
+      "A": "Funcional.",
+      "B": "Cooperativa.",
+      "C": "Orgánica.",
+      "D": "Obligatoria."
+    },
+    "correcta": "C",
+    "explicacion": "Orgánica.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q021",
+    "test": 11,
+    "n": 21,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Señala la respuesta incorrecta respecto a la validez y eficacia de las copias realizadas por las Administraciones Públicas:",
+    "opciones": {
+      "A": "Las copias auténticas realizadas por una Administración Pública únicamente tendrán validez en esa Administración Pública.",
+      "B": "Las copias auténticas tendrán la misma validez y eficacia que los documentos originales.",
+      "C": "Cada Administración Pública determinará los órganos que tengan atribuidas las competencias de expedición de copias auténticas.",
+      "D": "Las Administraciones Públicas estarán obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados."
+    },
+    "correcta": "A",
+    "explicacion": "Las copias auténticas realizadas por una Administración Pública únicamente tendrán validez en esa Administración Pública.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q022",
+    "test": 11,
+    "n": 22,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Los poderes inscritos en el registro electrónico de apoderamiento tendrán una validez determinada máxima de:",
+    "opciones": {
+      "A": "Diez años.",
+      "B": "Cinco años a contar desde la fecha de inscripción.",
+      "C": "Tres años.",
+      "D": "Dos años."
+    },
+    "correcta": "B",
+    "explicacion": "Cinco años a contar desde la fecha de inscripción.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q023",
+    "test": 11,
+    "n": 23,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse:",
+    "opciones": {
+      "A": "En las oficinas de Correos, en la forma que reglamentariamente se establezca.",
+      "B": "En las representaciones diplomáticas u oficinas consulares de España en el extranjero.",
+      "C": "En las oficinas de asistencia en materia de registros.",
+      "D": "Todas las respuestas son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Todas las respuestas son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q024",
+    "test": 11,
+    "n": 24,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La integración de un ciudadano en un Colegio Profesional es significativa de una participación:",
+    "opciones": {
+      "A": "Funcional.",
+      "B": "Cooperativa.",
+      "C": "Orgánica.",
+      "D": "Obligatoria."
+    },
+    "correcta": "C",
+    "explicacion": "Orgánica.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q025",
+    "test": 11,
+    "n": 25,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Los registros electrónicos de apoderamientos serán:",
+    "opciones": {
+      "A": "Privados.",
+      "B": "Interoperables entre sí.",
+      "C": "Municipales.",
+      "D": "De libre acceso para cualquier ciudadano."
+    },
+    "correcta": "B",
+    "explicacion": "Interoperables entre sí.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q026",
+    "test": 11,
+    "n": 26,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Cuándo es necesaria la acreditación de la representación por cualquier medio válido en Derecho que deje constancia fidedigna de su existencia?",
+    "opciones": {
+      "A": "Para formular solicitudes.",
+      "B": "Para presentar declaraciones responsables o comunicaciones.",
+      "C": "Para interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona.",
+      "D": "Todas las respuestas son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Todas las respuestas son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q027",
+    "test": 11,
+    "n": 27,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Para los actos y gestiones de mero trámite:",
+    "opciones": {
+      "A": "Se presumirá la representación.",
+      "B": "Deberá acreditarse la representación.",
+      "C": "No se requiere representación alguna.",
+      "D": "Ninguna de las respuestas es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Se presumirá la representación.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q028",
+    "test": 11,
+    "n": 28,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Quiénes tendrán capacidad de obrar ante las Administraciones Públicas?",
+    "opciones": {
+      "A": "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+      "B": "Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+      "C": "Cuando la Ley así lo declare expresamente, los grupos de afectados, las uniones sin personalidad jurídica y los patrimonios independientes o autónomos.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Todas las respuestas anteriores son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q029",
+    "test": 11,
+    "n": 29,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Cómo podrán los interesados identificarse electrónicamente ante las Administraciones Públicas?",
+    "opciones": {
+      "A": "Sistemas basados en certificados electrónicos reconocidos o cualificados de firma electrónica expedidos por prestadores incluidos en la 'Lista de confianza de prestadores de servicios de certificación'.",
+      "B": "Sistemas basados en certificados electrónicos reconocidos o cualificados de sello electrónico expedidos por prestadores incluidos en la 'Lista de confianza de prestadores de servicios de certificación'.",
+      "C": "Sistemas de clave concertada y otros sistemas que las Administraciones consideren válidos.",
+      "D": "Todas las respuestas anteriores son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Todas las respuestas anteriores son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q030",
+    "test": 11,
+    "n": 30,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "En el caso de que los interesados opten por identificarse ante una Administración Pública a través de un sistema de firma no criptográfica, ¿quién debe validar este sistema?",
+    "opciones": {
+      "A": "Las Cortes Generales.",
+      "B": "El Ministerio de Hacienda.",
+      "C": "La Secretaría General de Administración Digital.",
+      "D": "El Consejo de Ministros."
+    },
+    "correcta": "C",
+    "explicacion": "La Secretaría General de Administración Digital.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q031",
+    "test": 11,
+    "n": 31,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Se entiende por firma electrónica cualificada:",
+    "opciones": {
+      "A": "La firma electrónica avanzada que se crea mediante un dispositivo cualificado de creación de firma electrónica.",
+      "B": "La firma electrónica avanzada que se basa en un certificado cualificado de firma electrónica.",
+      "C": "La firma electrónica que permite identificar al firmante.",
+      "D": "Ninguna es correcta."
+    },
+    "correcta": "B",
+    "explicacion": "La firma electrónica avanzada que se basa en un certificado cualificado de firma electrónica.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q032",
+    "test": 11,
+    "n": 32,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La firma electrónica debe cumplir con los requisitos establecidos en el siguiente Reglamento:",
+    "opciones": {
+      "A": "Reglamento (UE) nº 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014.",
+      "B": "Reglamento (UE) nº 10/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014.",
+      "C": "Reglamento (UE) nº 910/2016 del Parlamento Europeo y del Consejo, de 23 de julio de 2016.",
+      "D": "Ninguna es correcta."
+    },
+    "correcta": "A",
+    "explicacion": "Reglamento (UE) nº 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q033",
+    "test": 11,
+    "n": 33,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Están obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas:",
+    "opciones": {
+      "A": "Las personas físicas.",
+      "B": "Las personas jurídicas.",
+      "C": "Los ciudadanos mayores de edad.",
+      "D": "Todos los anteriores."
+    },
+    "correcta": "B",
+    "explicacion": "Las personas jurídicas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q034",
+    "test": 11,
+    "n": 34,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La condición de 'administrado' es un concepto de:",
+    "opciones": {
+      "A": "Derecho Privado.",
+      "B": "Derecho Administrativo.",
+      "C": "Derecho Civil.",
+      "D": "Derecho Político."
+    },
+    "correcta": "B",
+    "explicacion": "Derecho Administrativo.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q035",
+    "test": 11,
+    "n": 35,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "A las personas que no poseen la condición de Administraciones Públicas se les aplica con carácter general el Derecho:",
+    "opciones": {
+      "A": "Privado.",
+      "B": "Público.",
+      "C": "Administrativo.",
+      "D": "Ninguno de ellos."
+    },
+    "correcta": "A",
+    "explicacion": "Privado.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q036",
+    "test": 11,
+    "n": 36,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La relación jurídica administrativa es la que se produce entre dos o más sujetos, de los cuales uno, al menos, ha de ser una Administración Pública, y que produce:",
+    "opciones": {
+      "A": "Derechos.",
+      "B": "Obligaciones.",
+      "C": "Derechos y obligaciones.",
+      "D": "Prerrogativas."
+    },
+    "correcta": "C",
+    "explicacion": "Derechos y obligaciones.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q037",
+    "test": 11,
+    "n": 37,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Las denuncias en un procedimiento administrativo:",
+    "opciones": {
+      "A": "Confieren por sí solas la condición de interesado.",
+      "B": "No confieren u otorgan por sí solas la condición de interesado en el procedimiento.",
+      "C": "Solo otorgan la condición de interesado si el denunciante es funcionario.",
+      "D": "Obligan a la Administración a iniciar el expediente."
+    },
+    "correcta": "B",
+    "explicacion": "No confieren u otorgan por sí solas, la condición de interesado en el procedimiento.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q038",
+    "test": 11,
+    "n": 38,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Se consideran interesados en el procedimiento administrativo:",
+    "opciones": {
+      "A": "Cualquier persona física.",
+      "B": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+      "C": "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+      "D": "Las respuestas b) y c) son ciertas."
+    },
+    "correcta": "D",
+    "explicacion": "Las respuestas b) y c) son ciertas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q039",
+    "test": 11,
+    "n": 39,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Un funcionario respecto de la Administración de la que depende es un:",
+    "opciones": {
+      "A": "Administrado simple.",
+      "B": "Administrado pasivo.",
+      "C": "Administrado activo.",
+      "D": "Administrado cualificado."
+    },
+    "correcta": "D",
+    "explicacion": "Administrado cualificado.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q040",
+    "test": 11,
+    "n": 40,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La circunstancia de que un administrado forme parte de la organización administrativa:",
+    "opciones": {
+      "A": "Le excluye de la relación.",
+      "B": "Es irrelevante.",
+      "C": "Le simplifica respecto de la misma.",
+      "D": "Le cualifica respecto de la misma."
+    },
+    "correcta": "D",
+    "explicacion": "Le cualifica respecto de la misma.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q041",
+    "test": 11,
+    "n": 41,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "El concepto de administrado simple es un concepto:",
+    "opciones": {
+      "A": "Subjetivo.",
+      "B": "Dinámico.",
+      "C": "Variable.",
+      "D": "Nada de lo expuesto es correcto."
+    },
+    "correcta": "D",
+    "explicacion": "Nada de lo expuesto es correcto.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q042",
+    "test": 11,
+    "n": 42,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Un contratista de la Administración es un administrado:",
+    "opciones": {
+      "A": "Simple.",
+      "B": "Pasivo.",
+      "C": "Activo.",
+      "D": "Cualificado."
+    },
+    "correcta": "D",
+    "explicacion": "Cualificado.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q043",
+    "test": 11,
+    "n": 43,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La aptitud para realizar actos jurídicos válidos en una relación administrativa se denomina:",
+    "opciones": {
+      "A": "Capacidad jurídica.",
+      "B": "Capacidad de obrar.",
+      "C": "Capacidad resolutoria.",
+      "D": "Capacidad contractual."
+    },
+    "correcta": "B",
+    "explicacion": "Capacidad de obrar.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q044",
+    "test": 11,
+    "n": 44,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Qué edad se requiere para entablar por sí solo relaciones con la Administración Pública?",
+    "opciones": {
+      "A": "18 años.",
+      "B": "Depende de los casos.",
+      "C": "14 años.",
+      "D": "21 años."
+    },
+    "correcta": "B",
+    "explicacion": "Depende de los casos.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q045",
+    "test": 11,
+    "n": 45,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Quiénes pueden comparecer en un expediente administrativo?",
+    "opciones": {
+      "A": "Solo los interesados en él.",
+      "B": "Cualquier persona.",
+      "C": "Solo los funcionarios.",
+      "D": "Solo los denunciantes."
+    },
+    "correcta": "A",
+    "explicacion": "Solo los interesados en él.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q046",
+    "test": 11,
+    "n": 46,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Cuando en una solicitud o recurso figuren varios interesados, las actuaciones se efectuarán con el representante o el interesado que hayan designado expresamente, y, en su defecto, con:",
+    "opciones": {
+      "A": "El que figure en primer término.",
+      "B": "El que tenga mayor capacidad.",
+      "C": "Cualquiera de las dos anteriores, a su opción.",
+      "D": "Todos ellos simultáneamente."
+    },
+    "correcta": "C",
+    "explicacion": "Cualquiera de las dos anteriores, a su opción.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q047",
+    "test": 11,
+    "n": 47,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "¿Cuándo pueden los interesados aducir alegaciones en un procedimiento administrativo?",
+    "opciones": {
+      "A": "En cualquier momento.",
+      "B": "Antes del trámite de audiencia.",
+      "C": "Después de la resolución.",
+      "D": "Solo al inicio."
+    },
+    "correcta": "B",
+    "explicacion": "Antes del trámite de audiencia.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q048",
+    "test": 11,
+    "n": 48,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La capacidad jurídica es la aptitud para:",
+    "opciones": {
+      "A": "Realizar actos válidos.",
+      "B": "Adquirir derechos.",
+      "C": "Interponer recursos.",
+      "D": "Representar a terceros."
+    },
+    "correcta": "B",
+    "explicacion": "Adquirir derechos.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q049",
+    "test": 11,
+    "n": 49,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La falta de representación, cuando es obligatoria, se considera una:",
+    "opciones": {
+      "A": "Falta leve.",
+      "B": "Falta muy grave.",
+      "C": "Anulabilidad.",
+      "D": "Nulidad de pleno derecho."
+    },
+    "correcta": "B",
+    "explicacion": "Falta muy grave.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q050",
+    "test": 11,
+    "n": 50,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Cuando la Administración no tenga por ciertos los hechos alegados por los interesados:",
+    "opciones": {
+      "A": "Abrirá un período de prueba.",
+      "B": "Desestimará la solicitud.",
+      "C": "Dictará resolución sancionadora.",
+      "D": "Archivará el expediente."
+    },
+    "correcta": "A",
+    "explicacion": "Abrirá un período de prueba.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q051",
+    "test": 11,
+    "n": 51,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La advertencia que la Administración dirige a un administrado sobre las consecuencias de su incumplimiento se llama:",
+    "opciones": {
+      "A": "Sanción.",
+      "B": "Intimación.",
+      "C": "Multa.",
+      "D": "Apercibimiento."
+    },
+    "correcta": "B",
+    "explicacion": "Intimación.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q052",
+    "test": 11,
+    "n": 52,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Frente a la inactividad o demora de la Administración, los particulares pueden interponer:",
+    "opciones": {
+      "A": "Denuncias.",
+      "B": "Reclamaciones.",
+      "C": "Querellas.",
+      "D": "Ninguna de ellas."
+    },
+    "correcta": "B",
+    "explicacion": "Reclamaciones.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q053",
+    "test": 11,
+    "n": 53,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Si en el despacho de un expediente se advierte la existencia de personas que no han comparecido pero tienen derechos afectados:",
+    "opciones": {
+      "A": "Se ignorará su existencia.",
+      "B": "Se publicará por edictos.",
+      "C": "Se comunicará a dichas personas la tramitación del procedimiento cuando este no haya tenido publicidad.",
+      "D": "No se comunicará salvo solicitud previa."
+    },
+    "correcta": "C",
+    "explicacion": "Se comunicará a dichas personas la tramitación del procedimiento cuando este no haya tenido publicidad.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q054",
+    "test": 11,
+    "n": 54,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Como regla general, una vez concluido un procedimiento administrativo:",
+    "opciones": {
+      "A": "La Administración queda exenta de resolver.",
+      "B": "Se produce el silencio negativo siempre.",
+      "C": "Debe resolver expresamente la Administración Pública dicho procedimiento.",
+      "D": "Nada de lo expuesto es cierto."
+    },
+    "correcta": "C",
+    "explicacion": "Debe resolver expresamente la Administración Pública dicho procedimiento.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q055",
+    "test": 11,
+    "n": 55,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "En las aceptaciones, la intervención del administrado se requiere:",
+    "opciones": {
+      "A": "Con carácter previo.",
+      "B": "Para que el acto sea válido.",
+      "C": "Para la formación del órgano.",
+      "D": "A posteriori."
+    },
+    "correcta": "D",
+    "explicacion": "A posteriori.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q056",
+    "test": 11,
+    "n": 56,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La aceptación de un particular actúa respecto del acto administrativo como requisito de:",
+    "opciones": {
+      "A": "Eficacia.",
+      "B": "Validez.",
+      "C": "Legalidad.",
+      "D": "Procedimiento."
+    },
+    "correcta": "A",
+    "explicacion": "Eficacia.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q057",
+    "test": 11,
+    "n": 57,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La toma de posesión de un funcionario es un ejemplo de:",
+    "opciones": {
+      "A": "Petición.",
+      "B": "Intimación.",
+      "C": "Opción.",
+      "D": "Aceptación."
+    },
+    "correcta": "D",
+    "explicacion": "Aceptación.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q058",
+    "test": 11,
+    "n": 58,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "En relación con la demora en la tramitación de un expediente, los particulares pueden interponer:",
+    "opciones": {
+      "A": "Reclamaciones.",
+      "B": "Opciones.",
+      "C": "Recursos directos.",
+      "D": "Declaraciones de nulidad."
+    },
+    "correcta": "A",
+    "explicacion": "Reclamaciones.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q059",
+    "test": 11,
+    "n": 59,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Las renuncias, para que tengan efecto, deben:",
+    "opciones": {
+      "A": "Ser ratificadas ante notario.",
+      "B": "Hacerse por escrito duplicado.",
+      "C": "Aceptarse por la Administración Pública.",
+      "D": "No necesitan aceptación."
+    },
+    "correcta": "C",
+    "explicacion": "Aceptarse por la Administración Pública.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q060",
+    "test": 11,
+    "n": 60,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La acreditación de la representación:",
+    "opciones": {
+      "A": "Puede hacerse por cualquier medio que permita su constancia.",
+      "B": "Solo mediante escritura pública.",
+      "C": "Únicamente por comparecencia personal.",
+      "D": "No es necesario acreditarla nunca."
+    },
+    "correcta": "A",
+    "explicacion": "Puede hacerse por cualquier medio que permita su constancia.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q061",
+    "test": 11,
+    "n": 61,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Se entiende por derecho a la protección de datos:",
+    "opciones": {
+      "A": "Un derecho absoluto del interesado.",
+      "B": "Un deber de la Administración sin excepciones.",
+      "C": "Un derecho que no se aplica en vía administrativa.",
+      "D": "Nada de lo anterior es correcto."
+    },
+    "correcta": "D",
+    "explicacion": "Nada de lo anterior es correcto.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q062",
+    "test": 11,
+    "n": 62,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "En cuanto a los derechos de los interesados en el procedimiento administrativo, la Ley 39/2015 establece que tienen derecho a conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados; el sentido del silencio administrativo que corresponda, en caso de que la Administración no dicte ni notifique resolución expresa en plazo; el órgano competente para su instrucción, en su caso, y su resolución; y los actos de trámite dictados. Asimismo, también tendrán derecho a acceder y a obtener copia de los documentos contenidos en los citados procedimientos. Quienes se relacionen con las Administraciones Públicas a través de medios electrónicos, tendrán derecho a consultar dicha información en:",
+    "opciones": {
+      "A": "El Boletín Oficial del Estado.",
+      "B": "El tablón de anuncios del Ayuntamiento.",
+      "C": "La oficina de atención al ciudadano.",
+      "D": "El Punto de Acceso General electrónico de la Administración."
+    },
+    "correcta": "D",
+    "explicacion": "El Punto de Acceso General electrónico de la Administración.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q063",
+    "test": 11,
+    "n": 63,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "En cuanto al derecho de los interesados en el procedimiento administrativo a actuar asistidos por asesor cuando lo consideren conveniente en defensa de sus intereses, la Ley 39/2015 establece que el uso de tal asesor será:",
+    "opciones": {
+      "A": "Obligatorio en todo caso.",
+      "B": "Preceptivo cuando así lo determine la Administración.",
+      "C": "No obligatorio, salvo que una norma con rango de Ley lo exija.",
+      "D": "Ninguna de las respuestas es correcta."
+    },
+    "correcta": "C",
+    "explicacion": "No obligatorio, salvo que una norma con rango de Ley lo exija.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q064",
+    "test": 11,
+    "n": 64,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Tienen capacidad de obrar ante las Administraciones Públicas:",
+    "opciones": {
+      "A": "Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+      "B": "Los grupos de afectados, las uniones sin personalidad jurídica y los patrimonios independientes o autónomos, cuando la Ley así lo declare expresamente.",
+      "C": "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+      "D": "Todas las respuestas son correctas."
+    },
+    "correcta": "D",
+    "explicacion": "Todas las respuestas son correctas.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q065",
+    "test": 11,
+    "n": 65,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Se presumirá la representación de los interesados para:",
+    "opciones": {
+      "A": "Interponer recursos.",
+      "B": "Los actos y gestiones de mero trámite.",
+      "C": "Desistir de acciones.",
+      "D": "Renunciar a derechos."
+    },
+    "correcta": "B",
+    "explicacion": "Los actos y gestiones de mero trámite.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q066",
+    "test": 11,
+    "n": 66,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "La falta de acreditación de la representación en un procedimiento administrativo:",
+    "opciones": {
+      "A": "Impide que se tenga por realizado el acto de que se trate.",
+      "B": "No impide que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+      "C": "Produce la nulidad absoluta del procedimiento.",
+      "D": "Ninguna de las respuestas es correcta."
+    },
+    "correcta": "B",
+    "explicacion": "No impide que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o se subsane el defecto dentro del plazo de diez días.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q067",
+    "test": 11,
+    "n": 67,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con el representante o el interesado que hayan designado expresamente, y, en su defecto:",
+    "opciones": {
+      "A": "Con el que figure en último término.",
+      "B": "Con cualquiera de ellos indistintamente.",
+      "C": "Con el que figure en primer término.",
+      "D": "Con el de mayor edad."
+    },
+    "correcta": "C",
+    "explicacion": "Con el que figure en primer término.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q068",
+    "test": 11,
+    "n": 68,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Si durante la instrucción de un procedimiento que no haya tenido publicidad, se advierte la existencia de personas que sean titulares de derechos o intereses legítimos directos cuya identificación resulte del expediente y que puedan resultar afectados por la resolución que se dicte:",
+    "opciones": {
+      "A": "Se publicará el estado del procedimiento en el BOE.",
+      "B": "Se les comunicará la tramitación del procedimiento.",
+      "C": "No es necesario realizar ninguna actuación.",
+      "D": "Se suspenderá el procedimiento hasta que comparezcan."
+    },
+    "correcta": "B",
+    "explicacion": "Se les comunicará la tramitación del procedimiento.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q069",
+    "test": 11,
+    "n": 69,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "En el caso de que los interesados opten por identificarse ante una Administración Pública a través de un sistema de firma no criptográfica, ¿quién debe validar este sistema?",
+    "opciones": {
+      "A": "El Ministerio de Hacienda y Función Pública.",
+      "B": "La Secretaría General de Administración Digital.",
+      "C": "El Consejo de Ministros.",
+      "D": "La Agencia Española de Protección de Datos."
+    },
+    "correcta": "B",
+    "explicacion": "La Secretaría General de Administración Digital.",
+    "flags": []
+  },
+  {
+    "id": "T11-Q070",
+    "test": 11,
+    "n": 70,
+    "tema": "Test 11 · La relación jurídico-administrativa. Concepto. Sujetos: la Administración y el administrado. Capacidad y representación. Derechos del administrado. Los actos jurídicos del administrado",
+    "pregunta": "Se entiende por firma electrónica cualificada:",
+    "opciones": {
+      "A": "La firma electrónica avanzada que se crea mediante un dispositivo cualificado de creación de firma electrónica.",
+      "B": "La firma electrónica que permite identificar al firmante.",
+      "C": "La firma electrónica avanzada que se basa en un certificado cualificado de firma electrónica.",
+      "D": "Ninguna es correcta."
+    },
+    "correcta": "C",
+    "explicacion": "La firma electrónica avanzada que se basa en un certificado cualificado de firma electrónica.",
+    "flags": []
+  }
+];
