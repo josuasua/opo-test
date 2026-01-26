@@ -470,7 +470,7 @@ window.PREGUNTAS = [
     "test": 1,
     "n": 29,
     "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
-    "pregunta": "Si un poder público, en su actuación, infringe lo dispuesto en el Preámbulo de la Cons- titución:",
+    "pregunta": "Si un poder público, en su actuación, infringe lo dispuesto en el Preámbulo de la Constitución:",
     "opciones": {
       "A": "Incurre en nulidad.",
       "B": "Incurre en inconstitucionalidad.",
@@ -489,7 +489,7 @@ window.PREGUNTAS = [
     "test": 1,
     "n": 30,
     "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
-    "pregunta": "El principio en virtud del cual el ciudadano está amparado por una legislación no su- jeta a continuos vaivenes es el de:",
+    "pregunta": "El principio en virtud del cual el ciudadano está amparado por una legislación no sujeta a continuos vaivenes es el de:",
     "opciones": {
       "A": "Legalidad.",
       "B": "Publicidad normativa.",
@@ -1002,7 +1002,7 @@ window.PREGUNTAS = [
     "test": 1,
     "n": 61,
     "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
-    "pregunta": "La disolución de las Cortes Generales, cuando se va a proceder a la reforma de la Cons- titución, se produce en caso de:",
+    "pregunta": "La disolución de las Cortes Generales, cuando se va a proceder a la reforma de la Constitución, se produce en caso de:",
     "opciones": {
       "A": "Reforma por el procedimiento excepcional.",
       "B": "Reforma por el procedimiento ordinario.",
@@ -1050,7 +1050,7 @@ window.PREGUNTAS = [
     "test": 1,
     "n": 64,
     "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
-    "pregunta": "El procedimiento excepcional de reforma está previsto en caso de intentarse esta res- pecto del siguiente Título de la Constitución:",
+    "pregunta": "El procedimiento excepcional de reforma está previsto en caso de intentarse esta respecto del siguiente Título de la Constitución:",
     "opciones": {
       "A": "Cualquiera.",
       "B": "Segundo.",
@@ -1086,7 +1086,7 @@ window.PREGUNTAS = [
     "test": 1,
     "n": 66,
     "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
-    "pregunta": "¿Cuántas salas tiene el Tribunal Constitucional y de cuántos Magistrados se compo- nen cada una de ellas?",
+    "pregunta": "¿Cuántas salas tiene el Tribunal Constitucional y de cuántos Magistrados se componen cada una de ellas?",
     "opciones": {
       "A": "Las Salas son tres, compuestas cada una por cuatro Magistrados.",
       "B": "Las Salas son dos, compuestas cada una por seis Magistrados.",
@@ -1140,7 +1140,7 @@ window.PREGUNTAS = [
     "test": 1,
     "n": 69,
     "tema": "Test 1 · Constitución 1978 (estructura, TC, reforma)",
-    "pregunta": "Puede plantear un conflicto negativo de competencias entre el Estado y las Comuni- dades Autónomas, ante el Tribunal Constitucional:",
+    "pregunta": "Puede plantear un conflicto negativo de competencias entre el Estado y las Comunidades Autónomas, ante el Tribunal Constitucional:",
     "opciones": {
       "A": "Un particular afectado por el mismo.",
       "B": "Las Cortes Generales y los Parlamentos Autonómicos.",
@@ -3972,4 +3972,5 @@ window.PREGUNTAS = [
     "explicacion": "La firma electrónica avanzada que se basa en un certificado cualificado de firma electrónica.",
     "flags": []
   }
+
 ];
